@@ -19,6 +19,15 @@
 		8D15E25E18C27AE20040D5ED /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8D15E24618C27AE20040D5ED /* UIKit.framework */; };
 		8D15E26618C27AE20040D5ED /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 8D15E26418C27AE20040D5ED /* InfoPlist.strings */; };
 		8D15E26818C27AE20040D5ED /* SampleAppTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8D15E26718C27AE20040D5ED /* SampleAppTests.m */; };
+		8D15E27418C27CEE0040D5ED /* FacebookSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8D15E27318C27CEE0040D5ED /* FacebookSDK.framework */; };
+		8D15E27D18C29D890040D5ED /* SACustomButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 8D15E27C18C29D890040D5ED /* SACustomButton.m */; };
+		8D15E29B18C2ADB40040D5ED /* SARootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8D15E29918C2ADB40040D5ED /* SARootViewController.m */; };
+		8D15E29E18C2B0990040D5ED /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8D15E29D18C2B0990040D5ED /* MainStoryboard.storyboard */; };
+		8D15E2A118C2CB4A0040D5ED /* SAFriendsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8D15E2A018C2CB4A0040D5ED /* SAFriendsViewController.m */; };
+		8D15E2A918C2EE660040D5ED /* SAProfilePicProcessor.m in Sources */ = {isa = PBXBuildFile; fileRef = 8D15E2A818C2EE660040D5ED /* SAProfilePicProcessor.m */; };
+		8D15E2BE18C30C4F0040D5ED /* SALoadingView.m in Sources */ = {isa = PBXBuildFile; fileRef = 8D15E2BD18C30C4F0040D5ED /* SALoadingView.m */; };
+		8D15E2C118C3C9880040D5ED /* SAFriendsDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8D15E2C018C3C9880040D5ED /* SAFriendsDetailViewController.m */; };
+		8D15E2C418C3E2EC0040D5ED /* SAFriend.m in Sources */ = {isa = PBXBuildFile; fileRef = 8D15E2C318C3E2EC0040D5ED /* SAFriend.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +57,22 @@
 		8D15E26318C27AE20040D5ED /* SampleAppTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SampleAppTests-Info.plist"; sourceTree = "<group>"; };
 		8D15E26518C27AE20040D5ED /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		8D15E26718C27AE20040D5ED /* SampleAppTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SampleAppTests.m; sourceTree = "<group>"; };
+		8D15E27318C27CEE0040D5ED /* FacebookSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = FacebookSDK.framework; sourceTree = "<group>"; };
+		8D15E27B18C29D890040D5ED /* SACustomButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SACustomButton.h; path = src/SACustomButton.h; sourceTree = "<group>"; };
+		8D15E27C18C29D890040D5ED /* SACustomButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SACustomButton.m; path = src/SACustomButton.m; sourceTree = "<group>"; };
+		8D15E29818C2ADB40040D5ED /* SARootViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SARootViewController.h; path = src/SARootViewController.h; sourceTree = "<group>"; };
+		8D15E29918C2ADB40040D5ED /* SARootViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SARootViewController.m; path = src/SARootViewController.m; sourceTree = "<group>"; };
+		8D15E29D18C2B0990040D5ED /* MainStoryboard.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = MainStoryboard.storyboard; sourceTree = "<group>"; };
+		8D15E29F18C2CB4A0040D5ED /* SAFriendsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SAFriendsViewController.h; path = src/SAFriendsViewController.h; sourceTree = "<group>"; };
+		8D15E2A018C2CB4A0040D5ED /* SAFriendsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SAFriendsViewController.m; path = src/SAFriendsViewController.m; sourceTree = "<group>"; };
+		8D15E2A718C2EE660040D5ED /* SAProfilePicProcessor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SAProfilePicProcessor.h; path = src/SAProfilePicProcessor.h; sourceTree = "<group>"; };
+		8D15E2A818C2EE660040D5ED /* SAProfilePicProcessor.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SAProfilePicProcessor.m; path = src/SAProfilePicProcessor.m; sourceTree = "<group>"; };
+		8D15E2BC18C30C4F0040D5ED /* SALoadingView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SALoadingView.h; path = src/SALoadingView.h; sourceTree = "<group>"; };
+		8D15E2BD18C30C4F0040D5ED /* SALoadingView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SALoadingView.m; path = src/SALoadingView.m; sourceTree = "<group>"; };
+		8D15E2BF18C3C9880040D5ED /* SAFriendsDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SAFriendsDetailViewController.h; path = src/SAFriendsDetailViewController.h; sourceTree = "<group>"; };
+		8D15E2C018C3C9880040D5ED /* SAFriendsDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SAFriendsDetailViewController.m; path = src/SAFriendsDetailViewController.m; sourceTree = "<group>"; };
+		8D15E2C218C3E2EC0040D5ED /* SAFriend.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SAFriend.h; path = src/SAFriend.h; sourceTree = "<group>"; };
+		8D15E2C318C3E2EC0040D5ED /* SAFriend.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SAFriend.m; path = src/SAFriend.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +81,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8D15E24518C27AE20040D5ED /* CoreGraphics.framework in Frameworks */,
+				8D15E27418C27CEE0040D5ED /* FacebookSDK.framework in Frameworks */,
 				8D15E24718C27AE20040D5ED /* UIKit.framework in Frameworks */,
 				8D15E24318C27AE20040D5ED /* Foundation.framework in Frameworks */,
 			);
@@ -96,6 +122,7 @@
 		8D15E24118C27AE20040D5ED /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				8D15E27318C27CEE0040D5ED /* FacebookSDK.framework */,
 				8D15E24218C27AE20040D5ED /* Foundation.framework */,
 				8D15E24418C27AE20040D5ED /* CoreGraphics.framework */,
 				8D15E24618C27AE20040D5ED /* UIKit.framework */,
@@ -109,6 +136,7 @@
 			children = (
 				8D15E25118C27AE20040D5ED /* SAAppDelegate.h */,
 				8D15E25218C27AE20040D5ED /* SAAppDelegate.m */,
+				8D15E27518C28CDD0040D5ED /* Classes */,
 				8D15E25418C27AE20040D5ED /* Images.xcassets */,
 				8D15E24918C27AE20040D5ED /* Supporting Files */,
 			);
@@ -122,6 +150,7 @@
 				8D15E24B18C27AE20040D5ED /* InfoPlist.strings */,
 				8D15E24E18C27AE20040D5ED /* main.m */,
 				8D15E25018C27AE20040D5ED /* SampleApp-Prefix.pch */,
+				8D15E29D18C2B0990040D5ED /* MainStoryboard.storyboard */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -142,6 +171,43 @@
 				8D15E26418C27AE20040D5ED /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		8D15E27518C28CDD0040D5ED /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				8D15E29818C2ADB40040D5ED /* SARootViewController.h */,
+				8D15E29918C2ADB40040D5ED /* SARootViewController.m */,
+				8D15E27F18C2A6110040D5ED /* Custom Views */,
+				8D15E29F18C2CB4A0040D5ED /* SAFriendsViewController.h */,
+				8D15E2A018C2CB4A0040D5ED /* SAFriendsViewController.m */,
+				8D15E2BF18C3C9880040D5ED /* SAFriendsDetailViewController.h */,
+				8D15E2C018C3C9880040D5ED /* SAFriendsDetailViewController.m */,
+				8D15E2A718C2EE660040D5ED /* SAProfilePicProcessor.h */,
+				8D15E2A818C2EE660040D5ED /* SAProfilePicProcessor.m */,
+				8D15E2C218C3E2EC0040D5ED /* SAFriend.h */,
+				8D15E2C318C3E2EC0040D5ED /* SAFriend.m */,
+			);
+			name = Classes;
+			sourceTree = "<group>";
+		};
+		8D15E27E18C2A2EC0040D5ED /* Buttons */ = {
+			isa = PBXGroup;
+			children = (
+				8D15E27B18C29D890040D5ED /* SACustomButton.h */,
+				8D15E27C18C29D890040D5ED /* SACustomButton.m */,
+			);
+			name = Buttons;
+			sourceTree = "<group>";
+		};
+		8D15E27F18C2A6110040D5ED /* Custom Views */ = {
+			isa = PBXGroup;
+			children = (
+				8D15E27E18C2A2EC0040D5ED /* Buttons */,
+				8D15E2BC18C30C4F0040D5ED /* SALoadingView.h */,
+				8D15E2BD18C30C4F0040D5ED /* SALoadingView.m */,
+			);
+			name = "Custom Views";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -220,6 +286,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8D15E29E18C2B0990040D5ED /* MainStoryboard.storyboard in Resources */,
 				8D15E24D18C27AE20040D5ED /* InfoPlist.strings in Resources */,
 				8D15E25518C27AE20040D5ED /* Images.xcassets in Resources */,
 			);
@@ -240,8 +307,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8D15E2BE18C30C4F0040D5ED /* SALoadingView.m in Sources */,
+				8D15E2C418C3E2EC0040D5ED /* SAFriend.m in Sources */,
+				8D15E2A118C2CB4A0040D5ED /* SAFriendsViewController.m in Sources */,
+				8D15E29B18C2ADB40040D5ED /* SARootViewController.m in Sources */,
+				8D15E2C118C3C9880040D5ED /* SAFriendsDetailViewController.m in Sources */,
 				8D15E25318C27AE20040D5ED /* SAAppDelegate.m in Sources */,
+				8D15E27D18C29D890040D5ED /* SACustomButton.m in Sources */,
 				8D15E24F18C27AE20040D5ED /* main.m in Sources */,
+				8D15E2A918C2EE660040D5ED /* SAProfilePicProcessor.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -360,9 +434,15 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					/Users/astha/Documents/Study/SampleApp,
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "SampleApp/SampleApp-Prefix.pch";
 				INFOPLIST_FILE = "SampleApp/SampleApp-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -373,9 +453,15 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					/Users/astha/Documents/Study/SampleApp,
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "SampleApp/SampleApp-Prefix.pch";
 				INFOPLIST_FILE = "SampleApp/SampleApp-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
