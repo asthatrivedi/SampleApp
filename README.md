@@ -11,9 +11,5 @@ SDK features used:
 2). Facebook SDK to fetch facebook data. Facebook UI is not being used.
 3). Storyboard for user interface.
 4). NSPredicate for sorting the friends list in alphabetical order.
-
-
-Future Enhancements:
-
-1). Customizing login screen buttons using Core Graphics to add color and clipping the corner edges.
+5). Customized login button by changing properties in CALayer.
 
