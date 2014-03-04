@@ -1,0 +1,1119 @@
+TSampleApp
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/59/hls9jrq155n5s4xbdv2n6cj40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SampleApp-Prefix-fldxpvfvmgbgoweimekuivnvpfso/SampleApp-Prefix.pch.pch SampleApp/SampleApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/59/hls9jrq155n5s4xbdv2n6cj40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SampleApp-Prefix-agsezrxcstzdxqabruasbqhipbvh/SampleApp-Prefix.pch.pch SampleApp/SampleApp-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SALoadingView.o /Users/astha/Documents/Study/SampleApp/SampleApp/src/SALoadingView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SAFriendsViewController.o /Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SARootViewController.o /Users/astha/Documents/Study/SampleApp/SampleApp/src/SARootViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SAAppDelegate.o /Users/astha/Documents/Study/SampleApp/SampleApp/SAAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SACustomButton.o /Users/astha/Documents/Study/SampleApp/SampleApp/src/SACustomButton.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/main.o /Users/astha/Documents/Study/SampleApp/SampleApp/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SAProfilePicProcessor.o /Users/astha/Documents/Study/SampleApp/SampleApp/src/SAProfilePicProcessor.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SALoadingView.o /Users/astha/Documents/Study/SampleApp/SampleApp/src/SALoadingView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SAFriendsViewController.o /Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SARootViewController.o /Users/astha/Documents/Study/SampleApp/SampleApp/src/SARootViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SAAppDelegate.o /Users/astha/Documents/Study/SampleApp/SampleApp/SAAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SACustomButton.o /Users/astha/Documents/Study/SampleApp/SampleApp/src/SACustomButton.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/main.o /Users/astha/Documents/Study/SampleApp/SampleApp/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SAProfilePicProcessor.o /Users/astha/Documents/Study/SampleApp/SampleApp/src/SAProfilePicProcessor.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SampleApp normal i386
+cLd /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SampleApp normal x86_64
+cCreateUniversalBinary /Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator/SampleApp.app/SampleApp normal i386\ x86_64
+cCompileStoryboard /Users/astha/Documents/Study/SampleApp/SampleApp/MainStoryboard.storyboard
+cCopyStringsFile /Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator/SampleApp.app/en.lproj/InfoPlist.strings SampleApp/en.lproj/InfoPlist.strings
+cCompileAssetCatalog /Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator/SampleApp.app /Users/astha/Documents/Study/SampleApp/SampleApp/Images.xcassets
+cProcessInfoPlistFile /Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator/SampleApp.app/Info.plist /Users/astha/Documents/Study/SampleApp/SampleApp/SampleApp-Info.plist
+cGenerateDSYMFile /Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator/SampleApp.app.dSYM /Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator/SampleApp.app/SampleApp
+cTouch /Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator/SampleApp.app
+
+N/Applications/Xcode5.0.2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c00000000525642F10000000000000176
+t1381384945
+s374
+
+N/Applications/Xcode5.0.2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c0000000052FE7F5500000000000003B5
+t1392410453
+s949
+
+N/Applications/Xcode5.0.2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000052FE7F5900000000000001A0
+t1392410457
+s416
+
+N/Applications/Xcode5.0.2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000052FE7F5B0000000000445870
+t1392410459
+s4479088
+
+N/Applications/Xcode5.0.2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000052FE7F5B000000000088C680
+t1392410459
+s8963712
+
+N/Applications/Xcode5.0.2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000052FE7F5E0000000001DB9910
+t1392410462
+s31168784
+
+N/Applications/Xcode5.0.2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c0000000052FE7F730000000000000AC9
+t1392410483
+s2761
+
+N/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/FacebookSDK
+c0000000052EAD595000000000085D074
+t1391121813
+s8769652
+
+N/Users/astha/Documents/Study/SampleApp/SampleApp/Images.xcassets
+c00000000531243620000000000000088
+t1393705826
+s136
+
+N/Users/astha/Documents/Study/SampleApp/SampleApp/MainStoryboard.storyboard
+c000000005312AA2800000000000021EF
+t1393732136
+s8687
+
+N/Users/astha/Documents/Study/SampleApp/SampleApp/SAAppDelegate.m
+c0000000053127AC80000000000001B91
+t1393720008
+s7057
+
+N/Users/astha/Documents/Study/SampleApp/SampleApp/SampleApp-Info.plist
+c00000000531279AF00000000000005EB
+t1393719727
+s1515
+
+N/Users/astha/Documents/Study/SampleApp/SampleApp/SampleApp-Prefix.pch
+c00000000531243620000000000000158
+t1393705826
+s344
+
+N/Users/astha/Documents/Study/SampleApp/SampleApp/en.lproj/InfoPlist.strings
+c0000000053124362000000000000002D
+t1393705826
+s45
+
+N/Users/astha/Documents/Study/SampleApp/SampleApp/main.m
+c0000000053124362000000000000014A
+t1393705826
+s330
+
+N/Users/astha/Documents/Study/SampleApp/SampleApp/src/SACustomButton.m
+c00000000531287A50000000000000650
+t1393723301
+s1616
+
+N/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m
+c0000000053137A510000000000000A57
+t1393785425
+s2647
+
+N/Users/astha/Documents/Study/SampleApp/SampleApp/src/SALoadingView.m
+c00000000531377710000000000001A8C
+t1393784689
+s6796
+
+N/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAProfilePicProcessor.m
+c00000000531379BB0000000000000579
+t1393785275
+s1401
+
+N/Users/astha/Documents/Study/SampleApp/SampleApp/src/SARootViewController.m
+c000000005312B2EF0000000000000FCE
+t1393734383
+s4046
+
+N/Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator/SampleApp.app
+t1393785427
+s272
+
+N/Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator/SampleApp.app.dSYM
+t2
+s0
+
+N/Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator/SampleApp.app/Info.plist
+t1393785427
+s1222
+
+N/Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator/SampleApp.app/MainStoryboard.storyboardc
+t1393785427
+s238
+
+N/Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator/SampleApp.app/PkgInfo
+t1393785427
+s8
+
+N/Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator/SampleApp.app/SampleApp
+t2
+s0
+
+N/Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator/SampleApp.app/en.lproj/InfoPlist.strings
+t1393785426
+s42
+
+N/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SAAppDelegate.o
+t1393785426
+s81964
+
+N/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SACustomButton.o
+t1393785426
+s49852
+
+N/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SAFriendsViewController.o
+t2
+s0
+
+N/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SALoadingView.o
+t1393785426
+s62568
+
+N/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SAProfilePicProcessor.o
+t1393785426
+s17616
+
+N/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SARootViewController.o
+t1393785426
+s69988
+
+N/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SampleApp
+t2
+s0
+
+N/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SampleApp.LinkFileList
+c0000000053137A5100000000000003D0
+t1393785425
+s976
+
+N/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/main.o
+t1393785426
+s3664
+
+N/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SAAppDelegate.o
+t1393785426
+s93388
+
+N/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SACustomButton.o
+t1393785426
+s51652
+
+N/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SAFriendsViewController.o
+t2
+s0
+
+N/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SALoadingView.o
+t1393785426
+s69592
+
+N/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SAProfilePicProcessor.o
+t1393785426
+s21432
+
+N/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SARootViewController.o
+t1393785426
+s77096
+
+N/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SampleApp
+t2
+s0
+
+N/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SampleApp.LinkFileList
+c0000000053137A5100000000000003DE
+t1393785425
+s990
+
+N/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/main.o
+t1393785426
+s4176
+
+N/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/assetcatalog_dependencies.txt
+t1393785426
+s369
+
+N/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/assetcatalog_generated_info.plist
+t1393785426
+s585
+
+N/var/folders/59/hls9jrq155n5s4xbdv2n6cj40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SampleApp-Prefix-agsezrxcstzdxqabruasbqhipbvh/SampleApp-Prefix.pch.pch
+t1393785425
+s108772
+
+N/var/folders/59/hls9jrq155n5s4xbdv2n6cj40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SampleApp-Prefix-fldxpvfvmgbgoweimekuivnvpfso/SampleApp-Prefix.pch.pch
+t1393785425
+s108048
+
+CBuild AST from /Users/astha/Documents/Study/SampleApp/SampleApp/SAAppDelegate.m
+r0
+
+CBuild AST from /Users/astha/Documents/Study/SampleApp/SampleApp/main.m
+r0
+
+CBuild AST from /Users/astha/Documents/Study/SampleApp/SampleApp/src/SACustomButton.m
+r0
+
+CBuild AST from /Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m
+r0
+
+CBuild AST from /Users/astha/Documents/Study/SampleApp/SampleApp/src/SALoadingView.m
+r0
+
+CBuild AST from /Users/astha/Documents/Study/SampleApp/SampleApp/src/SAProfilePicProcessor.m
+r0
+
+CBuild AST from /Users/astha/Documents/Study/SampleApp/SampleApp/src/SARootViewController.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies01db1dd1b1c3b841^2cf031d1b1c3b841^---0#1#1#--18"Check dependencies36"099DCEB9-11CF-4B8C-A751-F2FE516CBE7E-
+
+CCompileAssetCatalog /Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator/SampleApp.app /Users/astha/Documents/Study/SampleApp/SampleApp/Images.xcassets
+s415478226.320270
+e415478226.877556
+r1
+xCompileAssetCatalog
+x/Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator/SampleApp.app
+x/Users/astha/Documents/Study/SampleApp/SampleApp/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator/SampleApp.app/LaunchImage-700-568h@2x.png
+o/Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator/SampleApp.app/LaunchImage-568h@2x.png
+o/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"CompileAssetCatalog build/Release-iphonesimulator/SampleApp.app SampleApp/Images.xcassets89"CompileAssetCatalog build/Release-iphonesimulator/SampleApp.app SampleApp/Images.xcassets680952d2b1c3b841^96b1e5d2b1c3b841^-397"/* com.apple.actool.compilation-results *//Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator/SampleApp.app/LaunchImage-700-568h@2x.png/Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator/SampleApp.app/LaunchImage-568h@2x.png/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@72"file:///Users/astha/Documents/Study/SampleApp/SampleApp/Images.xcassets/0000000000000000^1131"CompileAssetCatalog build/Release-iphonesimulator/SampleApp.app SampleApp/Images.xcassets    cd /Users/astha/Documents/Study/SampleApp    setenv PATH "/Applications/Xcode5.0.2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5.0.2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode5.0.2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 6.1 --target-device iphone --compress-pngs --compile /Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator/SampleApp.app /Users/astha/Documents/Study/SampleApp/SampleApp/Images.xcassets36"024EDFCE-A870-456B-86FD-6ADC59764825-
+b2DCF2C05-5DD6-4038-BF09-D6A26A50E497
+
+CCompileC build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SAAppDelegate.o /Users/astha/Documents/Study/SampleApp/SampleApp/SAAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415478225.871677
+e415478226.110197
+r1
+xCompileC
+xbuild/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SAAppDelegate.o
+x/Users/astha/Documents/Study/SampleApp/SampleApp/SAAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/astha/Documents/Study/SampleApp/SampleApp/SAAppDelegate.m
+d/Users/astha/Documents/Study/SampleApp/SampleApp/SAAppDelegate.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FacebookSDK.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBAccessTokenData.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBSession.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBAppCall.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBAppLinkData.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBDialogsData.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBAppEvents.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBCacheDescriptor.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBDialogs.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBOpenGraphActionShareDialogParams.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBDialogsParams.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBOpenGraphAction.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBGraphObject.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBShareDialogParams.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBError.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBErrorUtility.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBFrictionlessRecipientCache.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBRequest.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBOpenGraphObject.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBRequestConnection.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBWebDialogs.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBFriendPickerViewController.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBGraphUser.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBGraphPlace.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBGraphLocation.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBViewController.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBInsights.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBLoginView.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBNativeDialogs.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBPlacePickerViewController.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBProfilePictureView.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBSessionTokenCachingStrategy.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBSettings.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBUserSettingsViewController.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/NSError+FBError.h
+d/Users/astha/Documents/Study/SampleApp/SampleApp/src/SARootViewController.h
+d/Users/astha/Documents/Study/SampleApp/SampleApp/src/SACustomButton.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/astha/Documents/Study/SampleApp/SampleApp/SAAppDelegate.m200"CompileC build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SAAppDelegate.o SampleApp/SAAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerfa47dfd1b1c3b841^ca361cd2b1c3b841^---0#0#1#-19%DVTDocumentLocation2@71"file:///Users/astha/Documents/Study/SampleApp/SampleApp/SAAppDelegate.m0000000000000000^3713"CompileC build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SAAppDelegate.o SampleApp/SAAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/astha/Documents/Study/SampleApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5.0.2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5.0.2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode5.0.2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/astha/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode5.0.2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/SampleApp-generated-files.hmap -I/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/SampleApp-own-target-headers.hmap -I/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/SampleApp-all-target-headers.hmap -iquote /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/SampleApp-project-headers.hmap -I/Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator/include -I/Applications/Xcode5.0.2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/DerivedSources/i386 -I/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/DerivedSources -F/Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator -F/Users/astha/Documents/Study/SampleApp -include /var/folders/59/hls9jrq155n5s4xbdv2n6cj40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SampleApp-Prefix-fldxpvfvmgbgoweimekuivnvpfso/SampleApp-Prefix.pch -MMD -MT dependencies -MF /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SAAppDelegate.d --serialize-diagnostics /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SAAppDelegate.dia -c /Users/astha/Documents/Study/SampleApp/SampleApp/SAAppDelegate.m -o /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SAAppDelegate.o36"C32E95D6-3A68-45D0-94E6-67466A88D9B0-
+b2DCF2C05-5DD6-4038-BF09-D6A26A50E497
+
+CCompileC build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SACustomButton.o /Users/astha/Documents/Study/SampleApp/SampleApp/src/SACustomButton.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415478225.872105
+e415478226.010800
+r1
+xCompileC
+xbuild/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SACustomButton.o
+x/Users/astha/Documents/Study/SampleApp/SampleApp/src/SACustomButton.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/astha/Documents/Study/SampleApp/SampleApp/src/SACustomButton.m
+d/Users/astha/Documents/Study/SampleApp/SampleApp/src/SACustomButton.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/astha/Documents/Study/SampleApp/SampleApp/src/SACustomButton.m206"CompileC build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SACustomButton.o SampleApp/src/SACustomButton.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler9c6cdfd1b1c3b841^dbc302d2b1c3b841^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/astha/Documents/Study/SampleApp/SampleApp/src/SACustomButton.m0000000000000000^3727"CompileC build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SACustomButton.o SampleApp/src/SACustomButton.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/astha/Documents/Study/SampleApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5.0.2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5.0.2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode5.0.2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/astha/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode5.0.2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/SampleApp-generated-files.hmap -I/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/SampleApp-own-target-headers.hmap -I/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/SampleApp-all-target-headers.hmap -iquote /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/SampleApp-project-headers.hmap -I/Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator/include -I/Applications/Xcode5.0.2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/DerivedSources/i386 -I/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/DerivedSources -F/Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator -F/Users/astha/Documents/Study/SampleApp -include /var/folders/59/hls9jrq155n5s4xbdv2n6cj40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SampleApp-Prefix-fldxpvfvmgbgoweimekuivnvpfso/SampleApp-Prefix.pch -MMD -MT dependencies -MF /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SACustomButton.d --serialize-diagnostics /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SACustomButton.dia -c /Users/astha/Documents/Study/SampleApp/SampleApp/src/SACustomButton.m -o /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SACustomButton.o36"E3F7FCD0-A54C-4CFF-B01D-C0C895839943-
+b2DCF2C05-5DD6-4038-BF09-D6A26A50E497
+
+CCompileC build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SAFriendsViewController.o /Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415478225.871281
+e415478226.209351
+r0
+xCompileC
+xbuild/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SAFriendsViewController.o
+x/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m
+d/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.h
+d/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAProfilePicProcessor.h
+d/Users/astha/Documents/Study/SampleApp/SampleApp/src/SALoadingView.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FacebookSDK.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBAccessTokenData.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBSession.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBAppCall.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBAppLinkData.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBDialogsData.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBAppEvents.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBCacheDescriptor.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBDialogs.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBOpenGraphActionShareDialogParams.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBDialogsParams.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBOpenGraphAction.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBGraphObject.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBShareDialogParams.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBError.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBErrorUtility.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBFrictionlessRecipientCache.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBRequest.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBOpenGraphObject.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBRequestConnection.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBWebDialogs.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBFriendPickerViewController.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBGraphUser.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBGraphPlace.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBGraphLocation.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBViewController.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBInsights.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBLoginView.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBNativeDialogs.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBPlacePickerViewController.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBProfilePictureView.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBSessionTokenCachingStrategy.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBSettings.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBUserSettingsViewController.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/NSError+FBError.h
+o/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m:75:17: error: use of undeclared identifier 'profilePics'; did you mean 'profilePic'?
+o    while (i < [profilePics count]) {
+o                ^~~~~~~~~~~
+o                profilePic
+o/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m:73:42: note: 'profilePic' declared here
+o- (void)updateWithProfilePics:(UIImage *)profilePic atIndexPath:(NSIndexPath *) indexPath {
+o                                         ^
+o/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m:75:29: error: no visible @interface for 'UIImage' declares the selector 'count'
+o    while (i < [profilePics count]) {
+o                ~~~~~~~~~~~ ^~~~~
+o/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m:76:10: error: use of undeclared identifier 'indexPaths'; did you mean 'indexPath'?
+o        [indexPaths insertObject:[NSIndexPath indexPathForRow:i inSection:0] atIndex:i];
+o         ^~~~~~~~~~
+o         indexPath
+o/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m:73:81: note: 'indexPath' declared here
+o- (void)updateWithProfilePics:(UIImage *)profilePic atIndexPath:(NSIndexPath *) indexPath {
+o                                                                                ^
+o/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m:76:21: error: no visible @interface for 'NSIndexPath' declares the selector 'insertObject:atIndex:'
+o        [indexPaths insertObject:[NSIndexPath indexPathForRow:i inSection:0] atIndex:i];
+o         ~~~~~~~~~~ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m:79:41: error: use of undeclared identifier 'profilePics'; did you mean 'profilePic'?
+o    [self.friendsProfilePic addObjectAt:profilePics];
+o                                        ^~~~~~~~~~~
+o                                        profilePic
+o/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m:73:42: note: 'profilePic' declared here
+o- (void)updateWithProfilePics:(UIImage *)profilePic atIndexPath:(NSIndexPath *) indexPath {
+o                                         ^
+o/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m:79:29: error: no visible @interface for 'NSMutableArray' declares the selector 'addObjectAt:'
+o    [self.friendsProfilePic addObjectAt:profilePics];
+o     ~~~~~~~~~~~~~~~~~~~~~~ ^~~~~~~~~~~
+o/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m:80:44: error: use of undeclared identifier 'indexPaths'; did you mean 'indexPath'?
+o    [self.tableView reloadRowsAtIndexPaths:indexPaths withRowAnimation:UITableViewRowAnimationRight];
+o                                           ^~~~~~~~~~
+o                                           indexPath
+o/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m:73:81: note: 'indexPath' declared here
+o- (void)updateWithProfilePics:(UIImage *)profilePic atIndexPath:(NSIndexPath *) indexPath {
+o                                                                                ^
+o/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m:80:44: warning: incompatible pointer types sending 'NSIndexPath *' to parameter of type 'NSArray *' [-Wincompatible-pointer-types]
+o    [self.tableView reloadRowsAtIndexPaths:indexPaths withRowAnimation:UITableViewRowAnimationRight];
+o                                           ^~~~~~~~~~
+oIn module 'UIKit' imported from /Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.h:9:
+o/Applications/Xcode5.0.2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableView.h:198:43: note: passing argument to parameter 'indexPaths' here
+o- (void)reloadRowsAtIndexPaths:(NSArray *)indexPaths withRowAnimation:(UITableViewRowAnimation)animation NS_AVAILABLE_IOS(3_0);
+o                                          ^
+o/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m:19:17: warning: method 'updateWithProfilePics:' in protocol not implemented [-Wprotocol]
+o@implementation SAFriendsViewController
+o                ^
+oIn file included from /Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m:9:
+oIn file included from /Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.h:10:
+o/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAProfilePicProcessor.h:13:1: note: method 'updateWithProfilePics:' declared here
+o- (void)updateWithProfilePics:(NSArray *)profilePics;
+o^
+oIn file included from /Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m:9:
+o/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.h:13:12: note: required for direct or indirect protocol 'SAProfilePicProcessorDelegate'
+o@interface SAFriendsViewController : UIViewController<UITableViewDataSource, UITableViewDelegate,
+o           ^
+o2 warnings and 7 errors generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m224"CompileC build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SAFriendsViewController.o SampleApp/src/SAFriendsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerdd23dfd1b1c3b841^299835d2b1c3b841^-5122"/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m:75:17: error: use of undeclared identifier 'profilePics'; did you mean 'profilePic'?    while (i < [profilePics count]) {                ^~~~~~~~~~~                profilePic/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m:73:42: note: 'profilePic' declared here- (void)updateWithProfilePics:(UIImage *)profilePic atIndexPath:(NSIndexPath *) indexPath {                                         ^/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m:75:29: error: no visible @interface for 'UIImage' declares the selector 'count'    while (i < [profilePics count]) {                ~~~~~~~~~~~ ^~~~~/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m:76:10: error: use of undeclared identifier 'indexPaths'; did you mean 'indexPath'?        [indexPaths insertObject:[NSIndexPath indexPathForRow:i inSection:0] atIndex:i];         ^~~~~~~~~~         indexPath/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m:73:81: note: 'indexPath' declared here- (void)updateWithProfilePics:(UIImage *)profilePic atIndexPath:(NSIndexPath *) indexPath {                                                                                ^/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m:76:21: error: no visible @interface for 'NSIndexPath' declares the selector 'insertObject:atIndex:'        [indexPaths insertObject:[NSIndexPath indexPathForRow:i inSection:0] atIndex:i];         ~~~~~~~~~~ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m:79:41: error: use of undeclared identifier 'profilePics'; did you mean 'profilePic'?    [self.friendsProfilePic addObjectAt:profilePics];                                        ^~~~~~~~~~~                                        profilePic/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m:73:42: note: 'profilePic' declared here- (void)updateWithProfilePics:(UIImage *)profilePic atIndexPath:(NSIndexPath *) indexPath {                                         ^/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m:79:29: error: no visible @interface for 'NSMutableArray' declares the selector 'addObjectAt:'    [self.friendsProfilePic addObjectAt:profilePics];     ~~~~~~~~~~~~~~~~~~~~~~ ^~~~~~~~~~~/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m:80:44: error: use of undeclared identifier 'indexPaths'; did you mean 'indexPath'?    [self.tableView reloadRowsAtIndexPaths:indexPaths withRowAnimation:UITableViewRowAnimationRight];                                           ^~~~~~~~~~                                           indexPath/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m:73:81: note: 'indexPath' declared here- (void)updateWithProfilePics:(UIImage *)profilePic atIndexPath:(NSIndexPath *) indexPath {                                                                                ^/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m:80:44: warning: incompatible pointer types sending 'NSIndexPath *' to parameter of type 'NSArray *' [-Wincompatible-pointer-types]    [self.tableView reloadRowsAtIndexPaths:indexPaths withRowAnimation:UITableViewRowAnimationRight];                                           ^~~~~~~~~~In module 'UIKit' imported from /Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.h:9:/Applications/Xcode5.0.2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableView.h:198:43: note: passing argument to parameter 'indexPaths' here- (void)reloadRowsAtIndexPaths:(NSArray *)indexPaths withRowAnimation:(UITableViewRowAnimation)animation NS_AVAILABLE_IOS(3_0);                                          ^/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m:19:17: warning: method 'updateWithProfilePics:' in protocol not implemented [-Wprotocol]@implementation SAFriendsViewController                ^In file included from /Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m:9:In file included from /Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.h:10:/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAProfilePicProcessor.h:13:1: note: method 'updateWithProfilePics:' declared here- (void)updateWithProfilePics:(NSArray *)profilePics;^In file included from /Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m:9:/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.h:13:12: note: required for direct or indirect protocol 'SAProfilePicProcessorDelegate'@interface SAFriendsViewController : UIViewController<UITableViewDataSource, UITableViewDelegate,           ^2 warnings and 7 errors generated.9(36%IDEClangDiagnosticActivityLogMessage2@70"Use of undeclared identifier 'profilePics'; did you mean 'profilePic'?-415478226#18446744073709551615#0#1(2@26"'profilePic' declared here-415478226#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@85"file:///Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m0000000000000000^72#41#72#41#2094#0#14"Semantic Issue--2#27"com.apple.dt.IDE.diagnostic3@85"file:///Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m0000000000000000^74#16#74#16#2176#0#14"Semantic Issue1(3@85"file:///Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m0000000000000000^74#16#74#27#2176#11#-2@65"No visible @interface for 'UIImage' declares the selector 'count'-415478226#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@85"file:///Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m0000000000000000^74#28#74#28#2188#0#18"ARC Semantic Issue2(3@85"file:///Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m0000000000000000^74#16#74#27#2176#0#3@85"file:///Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m0000000000000000^74#28#74#33#2188#0#-2@68"Use of undeclared identifier 'indexPaths'; did you mean 'indexPath'?-415478226#18446744073709551615#0#1(2@25"'indexPath' declared here-415478226#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@85"file:///Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m0000000000000000^72#80#72#80#2133#0#14"Semantic Issue--2#27"com.apple.dt.IDE.diagnostic3@85"file:///Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m0000000000000000^75#9#75#9#2207#0#14"Semantic Issue1(3@85"file:///Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m0000000000000000^75#9#75#19#2207#10#-2@85"No visible @interface for 'NSIndexPath' declares the selector 'insertObject:atIndex:'-415478226#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@85"file:///Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m0000000000000000^75#20#75#20#2218#0#18"ARC Semantic Issue2(3@85"file:///Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m0000000000000000^75#9#75#19#2207#0#3@85"file:///Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m0000000000000000^75#20#75#84#2218#57#-2@70"Use of undeclared identifier 'profilePics'; did you mean 'profilePic'?-415478226#18446744073709551615#0#1(2@26"'profilePic' declared here-415478226#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@85"file:///Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m0000000000000000^72#41#72#41#2094#0#14"Semantic Issue--2#27"com.apple.dt.IDE.diagnostic3@85"file:///Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m0000000000000000^78#40#78#40#2346#0#14"Semantic Issue1(3@85"file:///Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m0000000000000000^78#40#78#51#2346#11#-2@79"No visible @interface for 'NSMutableArray' declares the selector 'addObjectAt:'-415478226#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@85"file:///Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m0000000000000000^78#28#78#28#2334#0#18"ARC Semantic Issue2(3@85"file:///Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m0000000000000000^78#5#78#27#2311#5#3@85"file:///Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m0000000000000000^78#28#78#39#2334#0#-2@68"Use of undeclared identifier 'indexPaths'; did you mean 'indexPath'?-415478226#18446744073709551615#0#1(2@25"'indexPath' declared here-415478226#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@85"file:///Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m0000000000000000^72#80#72#80#2133#0#14"Semantic Issue--2#27"com.apple.dt.IDE.diagnostic3@85"file:///Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m0000000000000000^79#43#79#43#2403#0#14"Semantic Issue1(3@85"file:///Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m0000000000000000^79#43#79#53#2403#10#-2@83"Incompatible pointer types sending 'NSIndexPath *' to parameter of type 'NSArray *'-415478226#18446744073709551615#0#1(2@47"Passing argument to parameter 'indexPaths' here-415478226#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@191"file:///Applications/Xcode5.0.2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableView.h0000000000000000^197#42#197#42#13196#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@85"file:///Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m0000000000000000^79#43#79#43#2403#0#14"Semantic Issue1(3@85"file:///Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m0000000000000000^79#43#79#53#2403#0#-2@59"Method 'updateWithProfilePics:' in protocol not implemented-415478226#18446744073709551615#0#2(2@45"Method 'updateWithProfilePics:' declared here-415478226#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@83"file:///Users/astha/Documents/Study/SampleApp/SampleApp/src/SAProfilePicProcessor.h0000000000000000^12#0#12#0#223#0#14"Semantic Issue--2@72"Required for direct or indirect protocol 'SAProfilePicProcessorDelegate'-415478226#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@85"file:///Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.h0000000000000000^12#11#12#11#233#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@85"file:///Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m0000000000000000^18#16#18#16#367#0#14"Semantic Issue--0#0#1#-19%DVTDocumentLocation4@85"file:///Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m0000000000000000^3781"CompileC build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SAFriendsViewController.o SampleApp/src/SAFriendsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/astha/Documents/Study/SampleApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5.0.2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5.0.2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode5.0.2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/astha/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode5.0.2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/SampleApp-generated-files.hmap -I/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/SampleApp-own-target-headers.hmap -I/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/SampleApp-all-target-headers.hmap -iquote /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/SampleApp-project-headers.hmap -I/Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator/include -I/Applications/Xcode5.0.2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/DerivedSources/i386 -I/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/DerivedSources -F/Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator -F/Users/astha/Documents/Study/SampleApp -include /var/folders/59/hls9jrq155n5s4xbdv2n6cj40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SampleApp-Prefix-fldxpvfvmgbgoweimekuivnvpfso/SampleApp-Prefix.pch -MMD -MT dependencies -MF /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SAFriendsViewController.d --serialize-diagnostics /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SAFriendsViewController.dia -c /Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m -o /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SAFriendsViewController.o36"2E384571-A84F-4C80-935A-519C8FA052B5-
+b2DCF2C05-5DD6-4038-BF09-D6A26A50E497
+
+CCompileC build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SALoadingView.o /Users/astha/Documents/Study/SampleApp/SampleApp/src/SALoadingView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415478225.871116
+e415478226.041892
+r1
+xCompileC
+xbuild/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SALoadingView.o
+x/Users/astha/Documents/Study/SampleApp/SampleApp/src/SALoadingView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/astha/Documents/Study/SampleApp/SampleApp/src/SALoadingView.m
+d/Users/astha/Documents/Study/SampleApp/SampleApp/src/SALoadingView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/astha/Documents/Study/SampleApp/SampleApp/src/SALoadingView.m204"CompileC build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SALoadingView.o SampleApp/src/SALoadingView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler3c16dfd1b1c3b841^d4b90ad2b1c3b841^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/astha/Documents/Study/SampleApp/SampleApp/src/SALoadingView.m0000000000000000^3721"CompileC build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SALoadingView.o SampleApp/src/SALoadingView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/astha/Documents/Study/SampleApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5.0.2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5.0.2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode5.0.2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/astha/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode5.0.2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/SampleApp-generated-files.hmap -I/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/SampleApp-own-target-headers.hmap -I/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/SampleApp-all-target-headers.hmap -iquote /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/SampleApp-project-headers.hmap -I/Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator/include -I/Applications/Xcode5.0.2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/DerivedSources/i386 -I/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/DerivedSources -F/Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator -F/Users/astha/Documents/Study/SampleApp -include /var/folders/59/hls9jrq155n5s4xbdv2n6cj40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SampleApp-Prefix-fldxpvfvmgbgoweimekuivnvpfso/SampleApp-Prefix.pch -MMD -MT dependencies -MF /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SALoadingView.d --serialize-diagnostics /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SALoadingView.dia -c /Users/astha/Documents/Study/SampleApp/SampleApp/src/SALoadingView.m -o /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SALoadingView.o36"ED27B464-EACC-4C6D-BBF6-B8E25A99F584-
+b2DCF2C05-5DD6-4038-BF09-D6A26A50E497
+
+CCompileC build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SAProfilePicProcessor.o /Users/astha/Documents/Study/SampleApp/SampleApp/src/SAProfilePicProcessor.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415478225.874066
+e415478226.030692
+r1
+xCompileC
+xbuild/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SAProfilePicProcessor.o
+x/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAProfilePicProcessor.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAProfilePicProcessor.m
+d/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAProfilePicProcessor.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FacebookSDK.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBAccessTokenData.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBSession.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBAppCall.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBAppLinkData.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBDialogsData.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBAppEvents.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBCacheDescriptor.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBDialogs.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBOpenGraphActionShareDialogParams.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBDialogsParams.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBOpenGraphAction.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBGraphObject.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBShareDialogParams.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBError.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBErrorUtility.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBFrictionlessRecipientCache.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBRequest.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBOpenGraphObject.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBRequestConnection.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBWebDialogs.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBFriendPickerViewController.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBGraphUser.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBGraphPlace.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBGraphLocation.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBViewController.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBInsights.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBLoginView.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBNativeDialogs.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBPlacePickerViewController.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBProfilePictureView.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBSessionTokenCachingStrategy.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBSettings.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBUserSettingsViewController.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/NSError+FBError.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/astha/Documents/Study/SampleApp/SampleApp/src/SAProfilePicProcessor.m220"CompileC build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SAProfilePicProcessor.o SampleApp/src/SAProfilePicProcessor.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler73dadfd1b1c3b841^73a007d2b1c3b841^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/astha/Documents/Study/SampleApp/SampleApp/src/SAProfilePicProcessor.m0000000000000000^3769"CompileC build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SAProfilePicProcessor.o SampleApp/src/SAProfilePicProcessor.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/astha/Documents/Study/SampleApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5.0.2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5.0.2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode5.0.2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/astha/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode5.0.2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/SampleApp-generated-files.hmap -I/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/SampleApp-own-target-headers.hmap -I/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/SampleApp-all-target-headers.hmap -iquote /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/SampleApp-project-headers.hmap -I/Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator/include -I/Applications/Xcode5.0.2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/DerivedSources/i386 -I/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/DerivedSources -F/Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator -F/Users/astha/Documents/Study/SampleApp -include /var/folders/59/hls9jrq155n5s4xbdv2n6cj40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SampleApp-Prefix-fldxpvfvmgbgoweimekuivnvpfso/SampleApp-Prefix.pch -MMD -MT dependencies -MF /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SAProfilePicProcessor.d --serialize-diagnostics /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SAProfilePicProcessor.dia -c /Users/astha/Documents/Study/SampleApp/SampleApp/src/SAProfilePicProcessor.m -o /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SAProfilePicProcessor.o36"56C4AB15-432B-4F46-A84B-DCCE63F6817C-
+b2DCF2C05-5DD6-4038-BF09-D6A26A50E497
+
+CCompileC build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SARootViewController.o /Users/astha/Documents/Study/SampleApp/SampleApp/src/SARootViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415478225.871487
+e415478226.065417
+r1
+xCompileC
+xbuild/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SARootViewController.o
+x/Users/astha/Documents/Study/SampleApp/SampleApp/src/SARootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/astha/Documents/Study/SampleApp/SampleApp/src/SARootViewController.m
+d/Users/astha/Documents/Study/SampleApp/SampleApp/SAAppDelegate.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FacebookSDK.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBAccessTokenData.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBSession.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBAppCall.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBAppLinkData.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBDialogsData.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBAppEvents.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBCacheDescriptor.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBDialogs.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBOpenGraphActionShareDialogParams.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBDialogsParams.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBOpenGraphAction.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBGraphObject.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBShareDialogParams.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBError.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBErrorUtility.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBFrictionlessRecipientCache.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBRequest.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBOpenGraphObject.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBRequestConnection.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBWebDialogs.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBFriendPickerViewController.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBGraphUser.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBGraphPlace.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBGraphLocation.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBViewController.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBInsights.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBLoginView.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBNativeDialogs.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBPlacePickerViewController.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBProfilePictureView.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBSessionTokenCachingStrategy.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBSettings.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBUserSettingsViewController.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/NSError+FBError.h
+d/Users/astha/Documents/Study/SampleApp/SampleApp/src/SARootViewController.h
+d/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.h
+d/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAProfilePicProcessor.h
+d/Users/astha/Documents/Study/SampleApp/SampleApp/src/SALoadingView.h
+d/Users/astha/Documents/Study/SampleApp/SampleApp/src/SACustomButton.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/astha/Documents/Study/SampleApp/SampleApp/src/SARootViewController.m218"CompileC build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SARootViewController.o SampleApp/src/SARootViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compileraa2bdfd1b1c3b841^41b610d2b1c3b841^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/astha/Documents/Study/SampleApp/SampleApp/src/SARootViewController.m0000000000000000^3763"CompileC build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SARootViewController.o SampleApp/src/SARootViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/astha/Documents/Study/SampleApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5.0.2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5.0.2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode5.0.2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/astha/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode5.0.2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/SampleApp-generated-files.hmap -I/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/SampleApp-own-target-headers.hmap -I/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/SampleApp-all-target-headers.hmap -iquote /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/SampleApp-project-headers.hmap -I/Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator/include -I/Applications/Xcode5.0.2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/DerivedSources/i386 -I/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/DerivedSources -F/Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator -F/Users/astha/Documents/Study/SampleApp -include /var/folders/59/hls9jrq155n5s4xbdv2n6cj40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SampleApp-Prefix-fldxpvfvmgbgoweimekuivnvpfso/SampleApp-Prefix.pch -MMD -MT dependencies -MF /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SARootViewController.d --serialize-diagnostics /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SARootViewController.dia -c /Users/astha/Documents/Study/SampleApp/SampleApp/src/SARootViewController.m -o /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SARootViewController.o36"D1109779-F720-454B-BC24-4572D75933A8-
+b2DCF2C05-5DD6-4038-BF09-D6A26A50E497
+
+CCompileC build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/main.o /Users/astha/Documents/Study/SampleApp/SampleApp/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415478225.872769
+e415478226.054686
+r1
+xCompileC
+xbuild/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/main.o
+x/Users/astha/Documents/Study/SampleApp/SampleApp/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/astha/Documents/Study/SampleApp/SampleApp/main.m
+d/Users/astha/Documents/Study/SampleApp/SampleApp/SAAppDelegate.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FacebookSDK.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBAccessTokenData.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBSession.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBAppCall.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBAppLinkData.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBDialogsData.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBAppEvents.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBCacheDescriptor.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBDialogs.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBOpenGraphActionShareDialogParams.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBDialogsParams.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBOpenGraphAction.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBGraphObject.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBShareDialogParams.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBError.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBErrorUtility.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBFrictionlessRecipientCache.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBRequest.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBOpenGraphObject.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBRequestConnection.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBWebDialogs.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBFriendPickerViewController.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBGraphUser.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBGraphPlace.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBGraphLocation.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBViewController.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBInsights.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBLoginView.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBNativeDialogs.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBPlacePickerViewController.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBProfilePictureView.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBSessionTokenCachingStrategy.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBSettings.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBUserSettingsViewController.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/NSError+FBError.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Compile /Users/astha/Documents/Study/SampleApp/SampleApp/main.m182"CompileC build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/main.o SampleApp/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerfd84dfd1b1c3b841^834c0ed2b1c3b841^---0#0#1#-19%DVTDocumentLocation2@62"file:///Users/astha/Documents/Study/SampleApp/SampleApp/main.m0000000000000000^3659"CompileC build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/main.o SampleApp/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/astha/Documents/Study/SampleApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5.0.2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5.0.2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode5.0.2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/astha/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode5.0.2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/SampleApp-generated-files.hmap -I/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/SampleApp-own-target-headers.hmap -I/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/SampleApp-all-target-headers.hmap -iquote /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/SampleApp-project-headers.hmap -I/Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator/include -I/Applications/Xcode5.0.2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/DerivedSources/i386 -I/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/DerivedSources -F/Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator -F/Users/astha/Documents/Study/SampleApp -include /var/folders/59/hls9jrq155n5s4xbdv2n6cj40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SampleApp-Prefix-fldxpvfvmgbgoweimekuivnvpfso/SampleApp-Prefix.pch -MMD -MT dependencies -MF /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/main.dia -c /Users/astha/Documents/Study/SampleApp/SampleApp/main.m -o /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/main.o36"C89C63A4-3894-4443-9FB7-2CCF2D047A8A-
+b2DCF2C05-5DD6-4038-BF09-D6A26A50E497
+
+CCompileC build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SAAppDelegate.o /Users/astha/Documents/Study/SampleApp/SampleApp/SAAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415478226.039470
+e415478226.231321
+r1
+xCompileC
+xbuild/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SAAppDelegate.o
+x/Users/astha/Documents/Study/SampleApp/SampleApp/SAAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/astha/Documents/Study/SampleApp/SampleApp/SAAppDelegate.m
+d/Users/astha/Documents/Study/SampleApp/SampleApp/SAAppDelegate.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FacebookSDK.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBAccessTokenData.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBSession.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBAppCall.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBAppLinkData.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBDialogsData.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBAppEvents.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBCacheDescriptor.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBDialogs.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBOpenGraphActionShareDialogParams.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBDialogsParams.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBOpenGraphAction.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBGraphObject.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBShareDialogParams.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBError.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBErrorUtility.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBFrictionlessRecipientCache.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBRequest.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBOpenGraphObject.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBRequestConnection.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBWebDialogs.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBFriendPickerViewController.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBGraphUser.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBGraphPlace.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBGraphLocation.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBViewController.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBInsights.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBLoginView.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBNativeDialogs.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBPlacePickerViewController.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBProfilePictureView.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBSessionTokenCachingStrategy.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBSettings.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBUserSettingsViewController.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/NSError+FBError.h
+d/Users/astha/Documents/Study/SampleApp/SampleApp/src/SARootViewController.h
+d/Users/astha/Documents/Study/SampleApp/SampleApp/src/SACustomButton.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/astha/Documents/Study/SampleApp/SampleApp/SAAppDelegate.m204"CompileC build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SAAppDelegate.o SampleApp/SAAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilera0360ad2b1c3b841^b0393bd2b1c3b841^---0#0#1#-19%DVTDocumentLocation2@71"file:///Users/astha/Documents/Study/SampleApp/SampleApp/SAAppDelegate.m0000000000000000^3727"CompileC build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SAAppDelegate.o SampleApp/SAAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/astha/Documents/Study/SampleApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5.0.2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5.0.2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode5.0.2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/astha/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode5.0.2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/SampleApp-generated-files.hmap -I/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/SampleApp-own-target-headers.hmap -I/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/SampleApp-all-target-headers.hmap -iquote /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/SampleApp-project-headers.hmap -I/Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator/include -I/Applications/Xcode5.0.2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/DerivedSources/x86_64 -I/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/DerivedSources -F/Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator -F/Users/astha/Documents/Study/SampleApp -include /var/folders/59/hls9jrq155n5s4xbdv2n6cj40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SampleApp-Prefix-agsezrxcstzdxqabruasbqhipbvh/SampleApp-Prefix.pch -MMD -MT dependencies -MF /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SAAppDelegate.d --serialize-diagnostics /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SAAppDelegate.dia -c /Users/astha/Documents/Study/SampleApp/SampleApp/SAAppDelegate.m -o /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SAAppDelegate.o36"8FC8D578-8B34-4D04-BF52-359DB9E2D68F-
+b2DCF2C05-5DD6-4038-BF09-D6A26A50E497
+
+CCompileC build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SACustomButton.o /Users/astha/Documents/Study/SampleApp/SampleApp/src/SACustomButton.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415478226.043114
+e415478226.115123
+r1
+xCompileC
+xbuild/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SACustomButton.o
+x/Users/astha/Documents/Study/SampleApp/SampleApp/src/SACustomButton.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/astha/Documents/Study/SampleApp/SampleApp/src/SACustomButton.m
+d/Users/astha/Documents/Study/SampleApp/SampleApp/src/SACustomButton.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/astha/Documents/Study/SampleApp/SampleApp/src/SACustomButton.m210"CompileC build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SACustomButton.o SampleApp/src/SACustomButton.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler95660bd2b1c3b841^07791dd2b1c3b841^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/astha/Documents/Study/SampleApp/SampleApp/src/SACustomButton.m0000000000000000^3741"CompileC build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SACustomButton.o SampleApp/src/SACustomButton.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/astha/Documents/Study/SampleApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5.0.2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5.0.2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode5.0.2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/astha/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode5.0.2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/SampleApp-generated-files.hmap -I/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/SampleApp-own-target-headers.hmap -I/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/SampleApp-all-target-headers.hmap -iquote /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/SampleApp-project-headers.hmap -I/Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator/include -I/Applications/Xcode5.0.2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/DerivedSources/x86_64 -I/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/DerivedSources -F/Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator -F/Users/astha/Documents/Study/SampleApp -include /var/folders/59/hls9jrq155n5s4xbdv2n6cj40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SampleApp-Prefix-agsezrxcstzdxqabruasbqhipbvh/SampleApp-Prefix.pch -MMD -MT dependencies -MF /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SACustomButton.d --serialize-diagnostics /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SACustomButton.dia -c /Users/astha/Documents/Study/SampleApp/SampleApp/src/SACustomButton.m -o /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SACustomButton.o36"130C4513-0D97-4C01-8F61-3FCFF2AE5473-
+b2DCF2C05-5DD6-4038-BF09-D6A26A50E497
+
+CCompileC build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SAFriendsViewController.o /Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415478226.011802
+e415478226.303571
+r0
+xCompileC
+xbuild/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SAFriendsViewController.o
+x/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m
+d/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.h
+d/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAProfilePicProcessor.h
+d/Users/astha/Documents/Study/SampleApp/SampleApp/src/SALoadingView.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FacebookSDK.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBAccessTokenData.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBSession.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBAppCall.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBAppLinkData.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBDialogsData.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBAppEvents.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBCacheDescriptor.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBDialogs.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBOpenGraphActionShareDialogParams.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBDialogsParams.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBOpenGraphAction.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBGraphObject.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBShareDialogParams.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBError.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBErrorUtility.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBFrictionlessRecipientCache.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBRequest.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBOpenGraphObject.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBRequestConnection.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBWebDialogs.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBFriendPickerViewController.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBGraphUser.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBGraphPlace.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBGraphLocation.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBViewController.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBInsights.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBLoginView.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBNativeDialogs.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBPlacePickerViewController.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBProfilePictureView.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBSessionTokenCachingStrategy.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBSettings.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBUserSettingsViewController.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/NSError+FBError.h
+o/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m:75:17: error: use of undeclared identifier 'profilePics'; did you mean 'profilePic'?
+o    while (i < [profilePics count]) {
+o                ^~~~~~~~~~~
+o                profilePic
+o/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m:73:42: note: 'profilePic' declared here
+o- (void)updateWithProfilePics:(UIImage *)profilePic atIndexPath:(NSIndexPath *) indexPath {
+o                                         ^
+o/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m:75:29: error: no visible @interface for 'UIImage' declares the selector 'count'
+o    while (i < [profilePics count]) {
+o                ~~~~~~~~~~~ ^~~~~
+o/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m:76:10: error: use of undeclared identifier 'indexPaths'; did you mean 'indexPath'?
+o        [indexPaths insertObject:[NSIndexPath indexPathForRow:i inSection:0] atIndex:i];
+o         ^~~~~~~~~~
+o         indexPath
+o/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m:73:81: note: 'indexPath' declared here
+o- (void)updateWithProfilePics:(UIImage *)profilePic atIndexPath:(NSIndexPath *) indexPath {
+o                                                                                ^
+o/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m:76:21: error: no visible @interface for 'NSIndexPath' declares the selector 'insertObject:atIndex:'
+o        [indexPaths insertObject:[NSIndexPath indexPathForRow:i inSection:0] atIndex:i];
+o         ~~~~~~~~~~ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m:79:41: error: use of undeclared identifier 'profilePics'; did you mean 'profilePic'?
+o    [self.friendsProfilePic addObjectAt:profilePics];
+o                                        ^~~~~~~~~~~
+o                                        profilePic
+o/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m:73:42: note: 'profilePic' declared here
+o- (void)updateWithProfilePics:(UIImage *)profilePic atIndexPath:(NSIndexPath *) indexPath {
+o                                         ^
+o/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m:79:29: error: no visible @interface for 'NSMutableArray' declares the selector 'addObjectAt:'
+o    [self.friendsProfilePic addObjectAt:profilePics];
+o     ~~~~~~~~~~~~~~~~~~~~~~ ^~~~~~~~~~~
+o/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m:80:44: error: use of undeclared identifier 'indexPaths'; did you mean 'indexPath'?
+o    [self.tableView reloadRowsAtIndexPaths:indexPaths withRowAnimation:UITableViewRowAnimationRight];
+o                                           ^~~~~~~~~~
+o                                           indexPath
+o/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m:73:81: note: 'indexPath' declared here
+o- (void)updateWithProfilePics:(UIImage *)profilePic atIndexPath:(NSIndexPath *) indexPath {
+o                                                                                ^
+o/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m:80:44: warning: incompatible pointer types sending 'NSIndexPath *' to parameter of type 'NSArray *' [-Wincompatible-pointer-types]
+o    [self.tableView reloadRowsAtIndexPaths:indexPaths withRowAnimation:UITableViewRowAnimationRight];
+o                                           ^~~~~~~~~~
+oIn module 'UIKit' imported from /Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.h:9:
+o/Applications/Xcode5.0.2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableView.h:198:43: note: passing argument to parameter 'indexPaths' here
+o- (void)reloadRowsAtIndexPaths:(NSArray *)indexPaths withRowAnimation:(UITableViewRowAnimation)animation NS_AVAILABLE_IOS(3_0);
+o                                          ^
+o/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m:19:17: warning: method 'updateWithProfilePics:' in protocol not implemented [-Wprotocol]
+o@implementation SAFriendsViewController
+o                ^
+oIn file included from /Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m:9:
+oIn file included from /Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.h:10:
+o/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAProfilePicProcessor.h:13:1: note: method 'updateWithProfilePics:' declared here
+o- (void)updateWithProfilePics:(NSArray *)profilePics;
+o^
+oIn file included from /Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m:9:
+o/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.h:13:12: note: required for direct or indirect protocol 'SAProfilePicProcessorDelegate'
+o@interface SAFriendsViewController : UIViewController<UITableViewDataSource, UITableViewDelegate,
+o           ^
+o2 warnings and 7 errors generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m228"CompileC build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SAFriendsViewController.o SampleApp/src/SAFriendsViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler3e2103d2b1c3b841^9eb74dd2b1c3b841^-5122"/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m:75:17: error: use of undeclared identifier 'profilePics'; did you mean 'profilePic'?    while (i < [profilePics count]) {                ^~~~~~~~~~~                profilePic/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m:73:42: note: 'profilePic' declared here- (void)updateWithProfilePics:(UIImage *)profilePic atIndexPath:(NSIndexPath *) indexPath {                                         ^/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m:75:29: error: no visible @interface for 'UIImage' declares the selector 'count'    while (i < [profilePics count]) {                ~~~~~~~~~~~ ^~~~~/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m:76:10: error: use of undeclared identifier 'indexPaths'; did you mean 'indexPath'?        [indexPaths insertObject:[NSIndexPath indexPathForRow:i inSection:0] atIndex:i];         ^~~~~~~~~~         indexPath/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m:73:81: note: 'indexPath' declared here- (void)updateWithProfilePics:(UIImage *)profilePic atIndexPath:(NSIndexPath *) indexPath {                                                                                ^/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m:76:21: error: no visible @interface for 'NSIndexPath' declares the selector 'insertObject:atIndex:'        [indexPaths insertObject:[NSIndexPath indexPathForRow:i inSection:0] atIndex:i];         ~~~~~~~~~~ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m:79:41: error: use of undeclared identifier 'profilePics'; did you mean 'profilePic'?    [self.friendsProfilePic addObjectAt:profilePics];                                        ^~~~~~~~~~~                                        profilePic/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m:73:42: note: 'profilePic' declared here- (void)updateWithProfilePics:(UIImage *)profilePic atIndexPath:(NSIndexPath *) indexPath {                                         ^/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m:79:29: error: no visible @interface for 'NSMutableArray' declares the selector 'addObjectAt:'    [self.friendsProfilePic addObjectAt:profilePics];     ~~~~~~~~~~~~~~~~~~~~~~ ^~~~~~~~~~~/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m:80:44: error: use of undeclared identifier 'indexPaths'; did you mean 'indexPath'?    [self.tableView reloadRowsAtIndexPaths:indexPaths withRowAnimation:UITableViewRowAnimationRight];                                           ^~~~~~~~~~                                           indexPath/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m:73:81: note: 'indexPath' declared here- (void)updateWithProfilePics:(UIImage *)profilePic atIndexPath:(NSIndexPath *) indexPath {                                                                                ^/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m:80:44: warning: incompatible pointer types sending 'NSIndexPath *' to parameter of type 'NSArray *' [-Wincompatible-pointer-types]    [self.tableView reloadRowsAtIndexPaths:indexPaths withRowAnimation:UITableViewRowAnimationRight];                                           ^~~~~~~~~~In module 'UIKit' imported from /Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.h:9:/Applications/Xcode5.0.2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableView.h:198:43: note: passing argument to parameter 'indexPaths' here- (void)reloadRowsAtIndexPaths:(NSArray *)indexPaths withRowAnimation:(UITableViewRowAnimation)animation NS_AVAILABLE_IOS(3_0);                                          ^/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m:19:17: warning: method 'updateWithProfilePics:' in protocol not implemented [-Wprotocol]@implementation SAFriendsViewController                ^In file included from /Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m:9:In file included from /Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.h:10:/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAProfilePicProcessor.h:13:1: note: method 'updateWithProfilePics:' declared here- (void)updateWithProfilePics:(NSArray *)profilePics;^In file included from /Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m:9:/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.h:13:12: note: required for direct or indirect protocol 'SAProfilePicProcessorDelegate'@interface SAFriendsViewController : UIViewController<UITableViewDataSource, UITableViewDelegate,           ^2 warnings and 7 errors generated.9(36%IDEClangDiagnosticActivityLogMessage2@70"Use of undeclared identifier 'profilePics'; did you mean 'profilePic'?-415478226#18446744073709551615#0#1(2@26"'profilePic' declared here-415478226#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@85"file:///Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m0000000000000000^72#41#72#41#2094#0#14"Semantic Issue--2#27"com.apple.dt.IDE.diagnostic3@85"file:///Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m0000000000000000^74#16#74#16#2176#0#14"Semantic Issue1(3@85"file:///Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m0000000000000000^74#16#74#27#2176#11#-2@65"No visible @interface for 'UIImage' declares the selector 'count'-415478226#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@85"file:///Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m0000000000000000^74#28#74#28#2188#0#18"ARC Semantic Issue2(3@85"file:///Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m0000000000000000^74#16#74#27#2176#0#3@85"file:///Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m0000000000000000^74#28#74#33#2188#0#-2@68"Use of undeclared identifier 'indexPaths'; did you mean 'indexPath'?-415478226#18446744073709551615#0#1(2@25"'indexPath' declared here-415478226#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@85"file:///Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m0000000000000000^72#80#72#80#2133#0#14"Semantic Issue--2#27"com.apple.dt.IDE.diagnostic3@85"file:///Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m0000000000000000^75#9#75#9#2207#0#14"Semantic Issue1(3@85"file:///Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m0000000000000000^75#9#75#19#2207#10#-2@85"No visible @interface for 'NSIndexPath' declares the selector 'insertObject:atIndex:'-415478226#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@85"file:///Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m0000000000000000^75#20#75#20#2218#0#18"ARC Semantic Issue2(3@85"file:///Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m0000000000000000^75#9#75#19#2207#0#3@85"file:///Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m0000000000000000^75#20#75#84#2218#57#-2@70"Use of undeclared identifier 'profilePics'; did you mean 'profilePic'?-415478226#18446744073709551615#0#1(2@26"'profilePic' declared here-415478226#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@85"file:///Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m0000000000000000^72#41#72#41#2094#0#14"Semantic Issue--2#27"com.apple.dt.IDE.diagnostic3@85"file:///Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m0000000000000000^78#40#78#40#2346#0#14"Semantic Issue1(3@85"file:///Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m0000000000000000^78#40#78#51#2346#11#-2@79"No visible @interface for 'NSMutableArray' declares the selector 'addObjectAt:'-415478226#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@85"file:///Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m0000000000000000^78#28#78#28#2334#0#18"ARC Semantic Issue2(3@85"file:///Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m0000000000000000^78#5#78#27#2311#5#3@85"file:///Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m0000000000000000^78#28#78#39#2334#0#-2@68"Use of undeclared identifier 'indexPaths'; did you mean 'indexPath'?-415478226#18446744073709551615#0#1(2@25"'indexPath' declared here-415478226#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@85"file:///Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m0000000000000000^72#80#72#80#2133#0#14"Semantic Issue--2#27"com.apple.dt.IDE.diagnostic3@85"file:///Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m0000000000000000^79#43#79#43#2403#0#14"Semantic Issue1(3@85"file:///Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m0000000000000000^79#43#79#53#2403#10#-2@83"Incompatible pointer types sending 'NSIndexPath *' to parameter of type 'NSArray *'-415478226#18446744073709551615#0#1(2@47"Passing argument to parameter 'indexPaths' here-415478226#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@191"file:///Applications/Xcode5.0.2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableView.h0000000000000000^197#42#197#42#13196#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@85"file:///Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m0000000000000000^79#43#79#43#2403#0#14"Semantic Issue1(3@85"file:///Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m0000000000000000^79#43#79#53#2403#0#-2@59"Method 'updateWithProfilePics:' in protocol not implemented-415478226#18446744073709551615#0#2(2@45"Method 'updateWithProfilePics:' declared here-415478226#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@83"file:///Users/astha/Documents/Study/SampleApp/SampleApp/src/SAProfilePicProcessor.h0000000000000000^12#0#12#0#223#0#14"Semantic Issue--2@72"Required for direct or indirect protocol 'SAProfilePicProcessorDelegate'-415478226#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@85"file:///Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.h0000000000000000^12#11#12#11#233#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@85"file:///Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m0000000000000000^18#16#18#16#367#0#14"Semantic Issue--0#0#1#-19%DVTDocumentLocation4@85"file:///Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m0000000000000000^3795"CompileC build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SAFriendsViewController.o SampleApp/src/SAFriendsViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/astha/Documents/Study/SampleApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5.0.2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5.0.2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode5.0.2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/astha/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode5.0.2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/SampleApp-generated-files.hmap -I/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/SampleApp-own-target-headers.hmap -I/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/SampleApp-all-target-headers.hmap -iquote /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/SampleApp-project-headers.hmap -I/Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator/include -I/Applications/Xcode5.0.2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/DerivedSources/x86_64 -I/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/DerivedSources -F/Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator -F/Users/astha/Documents/Study/SampleApp -include /var/folders/59/hls9jrq155n5s4xbdv2n6cj40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SampleApp-Prefix-agsezrxcstzdxqabruasbqhipbvh/SampleApp-Prefix.pch -MMD -MT dependencies -MF /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SAFriendsViewController.d --serialize-diagnostics /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SAFriendsViewController.dia -c /Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.m -o /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SAFriendsViewController.o36"6FB01F76-C9F9-4B8E-801D-D7995AE653B3-
+b2DCF2C05-5DD6-4038-BF09-D6A26A50E497
+
+CCompileC build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SALoadingView.o /Users/astha/Documents/Study/SampleApp/SampleApp/src/SALoadingView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415478225.874146
+e415478226.039123
+r1
+xCompileC
+xbuild/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SALoadingView.o
+x/Users/astha/Documents/Study/SampleApp/SampleApp/src/SALoadingView.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/astha/Documents/Study/SampleApp/SampleApp/src/SALoadingView.m
+d/Users/astha/Documents/Study/SampleApp/SampleApp/src/SALoadingView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/astha/Documents/Study/SampleApp/SampleApp/src/SALoadingView.m208"CompileC build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SALoadingView.o SampleApp/src/SALoadingView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilera6f1dfd1b1c3b841^c0040ad2b1c3b841^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/astha/Documents/Study/SampleApp/SampleApp/src/SALoadingView.m0000000000000000^3735"CompileC build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SALoadingView.o SampleApp/src/SALoadingView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/astha/Documents/Study/SampleApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5.0.2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5.0.2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode5.0.2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/astha/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode5.0.2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/SampleApp-generated-files.hmap -I/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/SampleApp-own-target-headers.hmap -I/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/SampleApp-all-target-headers.hmap -iquote /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/SampleApp-project-headers.hmap -I/Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator/include -I/Applications/Xcode5.0.2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/DerivedSources/x86_64 -I/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/DerivedSources -F/Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator -F/Users/astha/Documents/Study/SampleApp -include /var/folders/59/hls9jrq155n5s4xbdv2n6cj40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SampleApp-Prefix-agsezrxcstzdxqabruasbqhipbvh/SampleApp-Prefix.pch -MMD -MT dependencies -MF /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SALoadingView.d --serialize-diagnostics /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SALoadingView.dia -c /Users/astha/Documents/Study/SampleApp/SampleApp/src/SALoadingView.m -o /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SALoadingView.o36"A66A9F8C-C0AE-41BE-85E5-1AC936A94836-
+b2DCF2C05-5DD6-4038-BF09-D6A26A50E497
+
+CCompileC build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SAProfilePicProcessor.o /Users/astha/Documents/Study/SampleApp/SampleApp/src/SAProfilePicProcessor.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415478226.065761
+e415478226.160452
+r1
+xCompileC
+xbuild/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SAProfilePicProcessor.o
+x/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAProfilePicProcessor.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAProfilePicProcessor.m
+d/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAProfilePicProcessor.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FacebookSDK.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBAccessTokenData.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBSession.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBAppCall.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBAppLinkData.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBDialogsData.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBAppEvents.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBCacheDescriptor.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBDialogs.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBOpenGraphActionShareDialogParams.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBDialogsParams.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBOpenGraphAction.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBGraphObject.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBShareDialogParams.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBError.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBErrorUtility.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBFrictionlessRecipientCache.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBRequest.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBOpenGraphObject.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBRequestConnection.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBWebDialogs.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBFriendPickerViewController.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBGraphUser.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBGraphPlace.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBGraphLocation.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBViewController.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBInsights.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBLoginView.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBNativeDialogs.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBPlacePickerViewController.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBProfilePictureView.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBSessionTokenCachingStrategy.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBSettings.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBUserSettingsViewController.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/NSError+FBError.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/astha/Documents/Study/SampleApp/SampleApp/src/SAProfilePicProcessor.m224"CompileC build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SAProfilePicProcessor.o SampleApp/src/SAProfilePicProcessor.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler95f010d2b1c3b841^b61329d2b1c3b841^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/astha/Documents/Study/SampleApp/SampleApp/src/SAProfilePicProcessor.m0000000000000000^3783"CompileC build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SAProfilePicProcessor.o SampleApp/src/SAProfilePicProcessor.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/astha/Documents/Study/SampleApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5.0.2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5.0.2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode5.0.2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/astha/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode5.0.2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/SampleApp-generated-files.hmap -I/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/SampleApp-own-target-headers.hmap -I/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/SampleApp-all-target-headers.hmap -iquote /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/SampleApp-project-headers.hmap -I/Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator/include -I/Applications/Xcode5.0.2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/DerivedSources/x86_64 -I/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/DerivedSources -F/Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator -F/Users/astha/Documents/Study/SampleApp -include /var/folders/59/hls9jrq155n5s4xbdv2n6cj40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SampleApp-Prefix-agsezrxcstzdxqabruasbqhipbvh/SampleApp-Prefix.pch -MMD -MT dependencies -MF /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SAProfilePicProcessor.d --serialize-diagnostics /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SAProfilePicProcessor.dia -c /Users/astha/Documents/Study/SampleApp/SampleApp/src/SAProfilePicProcessor.m -o /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SAProfilePicProcessor.o36"C17ECF0E-72E9-40DC-8E0E-35032FDECE5C-
+b2DCF2C05-5DD6-4038-BF09-D6A26A50E497
+
+CCompileC build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SARootViewController.o /Users/astha/Documents/Study/SampleApp/SampleApp/src/SARootViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415478226.030973
+e415478226.203377
+r1
+xCompileC
+xbuild/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SARootViewController.o
+x/Users/astha/Documents/Study/SampleApp/SampleApp/src/SARootViewController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/astha/Documents/Study/SampleApp/SampleApp/src/SARootViewController.m
+d/Users/astha/Documents/Study/SampleApp/SampleApp/SAAppDelegate.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FacebookSDK.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBAccessTokenData.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBSession.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBAppCall.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBAppLinkData.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBDialogsData.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBAppEvents.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBCacheDescriptor.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBDialogs.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBOpenGraphActionShareDialogParams.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBDialogsParams.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBOpenGraphAction.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBGraphObject.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBShareDialogParams.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBError.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBErrorUtility.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBFrictionlessRecipientCache.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBRequest.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBOpenGraphObject.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBRequestConnection.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBWebDialogs.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBFriendPickerViewController.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBGraphUser.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBGraphPlace.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBGraphLocation.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBViewController.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBInsights.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBLoginView.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBNativeDialogs.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBPlacePickerViewController.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBProfilePictureView.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBSessionTokenCachingStrategy.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBSettings.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBUserSettingsViewController.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/NSError+FBError.h
+d/Users/astha/Documents/Study/SampleApp/SampleApp/src/SARootViewController.h
+d/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAFriendsViewController.h
+d/Users/astha/Documents/Study/SampleApp/SampleApp/src/SAProfilePicProcessor.h
+d/Users/astha/Documents/Study/SampleApp/SampleApp/src/SALoadingView.h
+d/Users/astha/Documents/Study/SampleApp/SampleApp/src/SACustomButton.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/astha/Documents/Study/SampleApp/SampleApp/src/SARootViewController.m222"CompileC build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SARootViewController.o SampleApp/src/SARootViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerf60908d2b1c3b841^a51034d2b1c3b841^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/astha/Documents/Study/SampleApp/SampleApp/src/SARootViewController.m0000000000000000^3777"CompileC build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SARootViewController.o SampleApp/src/SARootViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/astha/Documents/Study/SampleApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5.0.2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5.0.2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode5.0.2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/astha/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode5.0.2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/SampleApp-generated-files.hmap -I/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/SampleApp-own-target-headers.hmap -I/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/SampleApp-all-target-headers.hmap -iquote /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/SampleApp-project-headers.hmap -I/Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator/include -I/Applications/Xcode5.0.2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/DerivedSources/x86_64 -I/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/DerivedSources -F/Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator -F/Users/astha/Documents/Study/SampleApp -include /var/folders/59/hls9jrq155n5s4xbdv2n6cj40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SampleApp-Prefix-agsezrxcstzdxqabruasbqhipbvh/SampleApp-Prefix.pch -MMD -MT dependencies -MF /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SARootViewController.d --serialize-diagnostics /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SARootViewController.dia -c /Users/astha/Documents/Study/SampleApp/SampleApp/src/SARootViewController.m -o /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SARootViewController.o36"CE212E26-E80D-4D39-B385-4C7C12E829A6-
+b2DCF2C05-5DD6-4038-BF09-D6A26A50E497
+
+CCompileC build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/main.o /Users/astha/Documents/Study/SampleApp/SampleApp/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415478226.056956
+e415478226.190489
+r1
+xCompileC
+xbuild/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/main.o
+x/Users/astha/Documents/Study/SampleApp/SampleApp/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/astha/Documents/Study/SampleApp/SampleApp/main.m
+d/Users/astha/Documents/Study/SampleApp/SampleApp/SAAppDelegate.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FacebookSDK.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBAccessTokenData.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBSession.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBAppCall.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBAppLinkData.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBDialogsData.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBAppEvents.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBCacheDescriptor.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBDialogs.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBOpenGraphActionShareDialogParams.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBDialogsParams.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBOpenGraphAction.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBGraphObject.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBShareDialogParams.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBError.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBErrorUtility.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBFrictionlessRecipientCache.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBRequest.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBOpenGraphObject.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBRequestConnection.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBWebDialogs.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBFriendPickerViewController.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBGraphUser.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBGraphPlace.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBGraphLocation.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBViewController.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBInsights.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBLoginView.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBNativeDialogs.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBPlacePickerViewController.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBProfilePictureView.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBSessionTokenCachingStrategy.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBSettings.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/FBUserSettingsViewController.h
+d/Users/astha/Documents/Study/SampleApp/FacebookSDK.framework/Headers/NSError+FBError.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Compile /Users/astha/Documents/Study/SampleApp/SampleApp/main.m186"CompileC build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/main.o SampleApp/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler0cb10ed2b1c3b841^69c430d2b1c3b841^---0#0#1#-19%DVTDocumentLocation2@62"file:///Users/astha/Documents/Study/SampleApp/SampleApp/main.m0000000000000000^3673"CompileC build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/main.o SampleApp/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/astha/Documents/Study/SampleApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5.0.2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5.0.2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode5.0.2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/astha/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode5.0.2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/SampleApp-generated-files.hmap -I/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/SampleApp-own-target-headers.hmap -I/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/SampleApp-all-target-headers.hmap -iquote /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/SampleApp-project-headers.hmap -I/Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator/include -I/Applications/Xcode5.0.2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/DerivedSources/x86_64 -I/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/DerivedSources -F/Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator -F/Users/astha/Documents/Study/SampleApp -include /var/folders/59/hls9jrq155n5s4xbdv2n6cj40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SampleApp-Prefix-agsezrxcstzdxqabruasbqhipbvh/SampleApp-Prefix.pch -MMD -MT dependencies -MF /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/main.dia -c /Users/astha/Documents/Study/SampleApp/SampleApp/main.m -o /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/main.o36"1B3A002D-B877-4AFD-B281-93E88A9CED1A-
+b2DCF2C05-5DD6-4038-BF09-D6A26A50E497
+
+CCompileStoryboard /Users/astha/Documents/Study/SampleApp/SampleApp/MainStoryboard.storyboard
+s415478226.319968
+e415478227.946717
+r1
+xCompileStoryboard
+x/Users/astha/Documents/Study/SampleApp/SampleApp/MainStoryboard.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"CompileStoryboard SampleApp/MainStoryboard.storyboard53"CompileStoryboard SampleApp/MainStoryboard.storyboard1bf451d2b1c3b841^74ee2ad4b1c3b841^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/astha/Documents/Study/SampleApp/SampleApp/MainStoryboard.storyboard0000000000000000^855"CompileStoryboard SampleApp/MainStoryboard.storyboard    cd /Users/astha/Documents/Study/SampleApp    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 6.1    setenv PATH "/Applications/Xcode5.0.2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5.0.2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode5.0.2.app/Contents/Developer/usr/bin/..    /Applications/Xcode5.0.2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 6.1 --output-format human-readable-text --compile /Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator/SampleApp.app/MainStoryboard.storyboardc /Users/astha/Documents/Study/SampleApp/SampleApp/MainStoryboard.storyboard36"E667A09A-4B63-4253-A7C2-F8958A86141D-
+b2DCF2C05-5DD6-4038-BF09-D6A26A50E497
+
+CCopyStringsFile /Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator/SampleApp.app/en.lproj/InfoPlist.strings SampleApp/en.lproj/InfoPlist.strings
+s415478226.320057
+e415478226.320916
+r1
+xCopyStringsFile
+x/Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator/SampleApp.app/en.lproj/InfoPlist.strings
+xSampleApp/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy SampleApp/en.lproj/InfoPlist.strings123"CopyStringsFile build/Release-iphonesimulator/SampleApp.app/en.lproj/InfoPlist.strings SampleApp/en.lproj/InfoPlist.strings9cf951d2b1c3b841^132852d2b1c3b841^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/astha/Documents/Study/SampleApp/SampleApp/en.lproj/InfoPlist.strings0000000000000000^597"CopyStringsFile build/Release-iphonesimulator/SampleApp.app/en.lproj/InfoPlist.strings SampleApp/en.lproj/InfoPlist.strings    cd /Users/astha/Documents/Study/SampleApp    setenv PATH "/Applications/Xcode5.0.2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5.0.2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator/SampleApp.app/en.lproj -- SampleApp/en.lproj/InfoPlist.strings36"1D2F898A-B6B3-47EA-8E1B-487C696BB6F2-
+b2DCF2C05-5DD6-4038-BF09-D6A26A50E497
+
+CCreateUniversalBinary /Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator/SampleApp.app/SampleApp normal i386\ x86_64
+s415478226.315209
+e415478226.319687
+r0
+xCreateUniversalBinary
+x/Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator/SampleApp.app/SampleApp
+xnormal
+xi386 x86_64
+o/Applications/Xcode5.0.2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo: can't open input file: /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SampleApp (No such file or directory)
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Create universal binary /Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator/SampleApp.app/SampleApp95"CreateUniversalBinary build/Release-iphonesimulator/SampleApp.app/SampleApp normal i386\ x86_64b9c550d2b1c3b841^0ed851d2b1c3b841^-280"/Applications/Xcode5.0.2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo: can't open input file: /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SampleApp (No such file or directory)1(21%IDEActivityLogMessage2@181"can't open input file: /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SampleApp (No such file or directory)251"/Applications/Xcode5.0.2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo: can't open input file: /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SampleApp415478226#18446744073709551615#0#-2#-23%DVTTextDocumentLocation3@103"file:///Applications/Xcode5.0.2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#10"Lipo Error--0#0#1#-19%DVTDocumentLocation4@99"file:///Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator/SampleApp.app/SampleApp0034e867deffdf42^729"CreateUniversalBinary build/Release-iphonesimulator/SampleApp.app/SampleApp normal i386\ x86_64    cd /Users/astha/Documents/Study/SampleApp    setenv PATH "/Applications/Xcode5.0.2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5.0.2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    lipo -create /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SampleApp /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SampleApp -output /Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator/SampleApp.app/SampleApp36"21A53DDC-3CE3-4525-A549-9EE1E45CEE83-
+b2DCF2C05-5DD6-4038-BF09-D6A26A50E497
+
+CGenerateDSYMFile /Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator/SampleApp.app.dSYM /Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator/SampleApp.app/SampleApp
+s415478227.949040
+e415478227.953835
+r0
+xGenerateDSYMFile
+x/Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator/SampleApp.app.dSYM
+x/Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator/SampleApp.app/SampleApp
+oerror: unable to open executable '/Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator/SampleApp.app/SampleApp'
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Generate /Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator/SampleApp.app.dSYM119"GenerateDSYMFile build/Release-iphonesimulator/SampleApp.app.dSYM build/Release-iphonesimulator/SampleApp.app/SampleAppcafdf2d3b1c3b841^3cf72ad4b1c3b841^-128"error: unable to open executable '/Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator/SampleApp.app/SampleApp'1(21%IDEActivityLogMessage2@127"error: unable to open executable '/Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator/SampleApp.app/SampleApp'-415478227#18446744073709551615#0#-2#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#14"Dsymutil Error--0#0#1#-19%DVTDocumentLocation4@94"file:///Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator/SampleApp.app.dSYM0034e867deffdf42^660"GenerateDSYMFile build/Release-iphonesimulator/SampleApp.app.dSYM build/Release-iphonesimulator/SampleApp.app/SampleApp    cd /Users/astha/Documents/Study/SampleApp    setenv PATH "/Applications/Xcode5.0.2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5.0.2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode5.0.2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator/SampleApp.app/SampleApp -o /Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator/SampleApp.app.dSYM36"74EE59F2-3351-487A-9A63-499C7FF88278-
+b2DCF2C05-5DD6-4038-BF09-D6A26A50E497
+
+CLd /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SampleApp normal i386
+s415478226.304542
+e415478226.314713
+r0
+xLd
+x/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SampleApp
+xnormal
+xi386
+d/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SampleApp.LinkFileList
+old: file not found: /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SAFriendsViewController.o
+oclang: error: linker command failed with exit code 1 (use -v to see invocation)
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection135"Link /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SampleApp106"Ld build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SampleApp normal i386ff054ed2b1c3b841^f39150d2b1c3b841^-247"ld: file not found: /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SAFriendsViewController.oclang: error: linker command failed with exit code 1 (use -v to see invocation)2(21%IDEActivityLogMessage2@162"File not found: /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SAFriendsViewController.o-415478226#0#167#-0#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@65"Linker command failed with exit code 1 (use -v to see invocation)-415478226#167#80#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--0#0#1#--1523"Ld build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SampleApp normal i386    cd /Users/astha/Documents/Study/SampleApp    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    setenv PATH "/Applications/Xcode5.0.2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5.0.2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode5.0.2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode5.0.2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator -F/Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator -F/Users/astha/Documents/Study/SampleApp -filelist /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SampleApp.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -ObjC -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.1 -framework CoreGraphics -framework FacebookSDK -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SampleApp_dependency_info.dat -o /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/i386/SampleApp36"AD03A164-6534-4381-8160-37E9B35F73D7-
+b2DCF2C05-5DD6-4038-BF09-D6A26A50E497
+
+CLd /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SampleApp normal x86_64
+s415478226.304825
+e415478226.314729
+r0
+xLd
+x/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SampleApp
+xnormal
+xx86_64
+d/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SampleApp.LinkFileList
+old: file not found: /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SAFriendsViewController.o
+oclang: error: linker command failed with exit code 1 (use -v to see invocation)
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection137"Link /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SampleApp110"Ld build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SampleApp normal x86_646e174ed2b1c3b841^149650d2b1c3b841^-249"ld: file not found: /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SAFriendsViewController.oclang: error: linker command failed with exit code 1 (use -v to see invocation)2(21%IDEActivityLogMessage2@164"File not found: /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SAFriendsViewController.o-415478226#0#169#-0#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@65"Linker command failed with exit code 1 (use -v to see invocation)-415478226#169#80#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--0#0#1#--1535"Ld build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SampleApp normal x86_64    cd /Users/astha/Documents/Study/SampleApp    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    setenv PATH "/Applications/Xcode5.0.2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5.0.2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode5.0.2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode5.0.2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator -F/Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator -F/Users/astha/Documents/Study/SampleApp -filelist /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SampleApp.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -ObjC -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.1 -framework CoreGraphics -framework FacebookSDK -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SampleApp_dependency_info.dat -o /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/Objects-normal/x86_64/SampleApp36"23A5A1D6-0B36-4A89-827F-42E6D5313112-
+b2DCF2C05-5DD6-4038-BF09-D6A26A50E497
+
+CProcessInfoPlistFile /Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator/SampleApp.app/Info.plist /Users/astha/Documents/Study/SampleApp/SampleApp/SampleApp-Info.plist
+s415478227.947208
+e415478227.948669
+r1
+xProcessInfoPlistFile
+x/Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator/SampleApp.app/Info.plist
+x/Users/astha/Documents/Study/SampleApp/SampleApp/SampleApp-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Process /Users/astha/Documents/Study/SampleApp/SampleApp/SampleApp-Info.plist106"ProcessInfoPlistFile build/Release-iphonesimulator/SampleApp.app/Info.plist SampleApp/SampleApp-Info.plist2788f2d3b1c3b841^80f32ad4b1c3b841^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/astha/Documents/Study/SampleApp/SampleApp/SampleApp-Info.plist0000000000000000^877"ProcessInfoPlistFile build/Release-iphonesimulator/SampleApp.app/Info.plist SampleApp/SampleApp-Info.plist    cd /Users/astha/Documents/Study/SampleApp    setenv PATH "/Applications/Xcode5.0.2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5.0.2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/astha/Documents/Study/SampleApp/SampleApp/SampleApp-Info.plist -genpkginfo /Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator/SampleApp.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/assetcatalog_generated_info.plist -o /Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator/SampleApp.app/Info.plist36"E6580AE2-19DA-46A0-9389-5FE9C2750656-
+b2DCF2C05-5DD6-4038-BF09-D6A26A50E497
+
+CProcessPCH /Users/astha/Library/Developer/Xcode/DerivedData/SampleApp-axtflpkvanciqofzkesxsluykohw/Index/PrecompiledHeaders/SampleApp-Prefix-dlvdgggrwcvjnpbwiobpckfgzzci_ast/SampleApp-Prefix.pch.pch SampleApp/SampleApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/astha/Library/Developer/Xcode/DerivedData/SampleApp-axtflpkvanciqofzkesxsluykohw/Index/PrecompiledHeaders/SampleApp-Prefix-ggnwsdbrepsrudgiksdbfvuulipc_ast/SampleApp-Prefix.pch.pch SampleApp/SampleApp-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/59/hls9jrq155n5s4xbdv2n6cj40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SampleApp-Prefix-agsezrxcstzdxqabruasbqhipbvh/SampleApp-Prefix.pch.pch SampleApp/SampleApp-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415478225.183862
+e415478225.870535
+r1
+xProcessPCH
+x/var/folders/59/hls9jrq155n5s4xbdv2n6cj40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SampleApp-Prefix-agsezrxcstzdxqabruasbqhipbvh/SampleApp-Prefix.pch.pch
+xSampleApp/SampleApp-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/astha/Documents/Study/SampleApp/SampleApp/SampleApp-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile SampleApp/SampleApp-Prefix.pch300"ProcessPCH /var/folders/59/hls9jrq155n5s4xbdv2n6cj40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SampleApp-Prefix-agsezrxcstzdxqabruasbqhipbvh/SampleApp-Prefix.pch.pch SampleApp/SampleApp-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler6a2e2fd1b1c3b841^c2dcded1b1c3b841^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/astha/Documents/Study/SampleApp/SampleApp/SampleApp-Prefix.pch0000000000000000^3787"ProcessPCH /var/folders/59/hls9jrq155n5s4xbdv2n6cj40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SampleApp-Prefix-agsezrxcstzdxqabruasbqhipbvh/SampleApp-Prefix.pch.pch SampleApp/SampleApp-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/astha/Documents/Study/SampleApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5.0.2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5.0.2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode5.0.2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/astha/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode5.0.2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/SampleApp-generated-files.hmap -I/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/SampleApp-own-target-headers.hmap -I/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/SampleApp-all-target-headers.hmap -iquote /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/SampleApp-project-headers.hmap -I/Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator/include -I/Applications/Xcode5.0.2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/DerivedSources/x86_64 -I/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/DerivedSources -F/Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator -F/Users/astha/Documents/Study/SampleApp --serialize-diagnostics /var/folders/59/hls9jrq155n5s4xbdv2n6cj40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SampleApp-Prefix-agsezrxcstzdxqabruasbqhipbvh/SampleApp-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/59/hls9jrq155n5s4xbdv2n6cj40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SampleApp-Prefix-agsezrxcstzdxqabruasbqhipbvh/SampleApp-Prefix.pch.d -c /Users/astha/Documents/Study/SampleApp/SampleApp/SampleApp-Prefix.pch -o /var/folders/59/hls9jrq155n5s4xbdv2n6cj40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SampleApp-Prefix-agsezrxcstzdxqabruasbqhipbvh/SampleApp-Prefix.pch.pch36"98F55E3D-1EAC-48ED-A587-2A9AACEBB7CF-
+b2DCF2C05-5DD6-4038-BF09-D6A26A50E497
+
+CProcessPCH /var/folders/59/hls9jrq155n5s4xbdv2n6cj40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SampleApp-Prefix-fldxpvfvmgbgoweimekuivnvpfso/SampleApp-Prefix.pch.pch SampleApp/SampleApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415478225.183649
+e415478225.867753
+r1
+xProcessPCH
+x/var/folders/59/hls9jrq155n5s4xbdv2n6cj40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SampleApp-Prefix-fldxpvfvmgbgoweimekuivnvpfso/SampleApp-Prefix.pch.pch
+xSampleApp/SampleApp-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/astha/Documents/Study/SampleApp/SampleApp/SampleApp-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile SampleApp/SampleApp-Prefix.pch298"ProcessPCH /var/folders/59/hls9jrq155n5s4xbdv2n6cj40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SampleApp-Prefix-fldxpvfvmgbgoweimekuivnvpfso/SampleApp-Prefix.pch.pch SampleApp/SampleApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerf41a2fd1b1c3b841^6325ded1b1c3b841^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/astha/Documents/Study/SampleApp/SampleApp/SampleApp-Prefix.pch0000000000000000^3781"ProcessPCH /var/folders/59/hls9jrq155n5s4xbdv2n6cj40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SampleApp-Prefix-fldxpvfvmgbgoweimekuivnvpfso/SampleApp-Prefix.pch.pch SampleApp/SampleApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/astha/Documents/Study/SampleApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5.0.2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5.0.2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode5.0.2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/astha/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode5.0.2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/SampleApp-generated-files.hmap -I/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/SampleApp-own-target-headers.hmap -I/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/SampleApp-all-target-headers.hmap -iquote /Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/SampleApp-project-headers.hmap -I/Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator/include -I/Applications/Xcode5.0.2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/DerivedSources/i386 -I/Users/astha/Documents/Study/SampleApp/build/SampleApp.build/Release-iphonesimulator/SampleApp.build/DerivedSources -F/Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator -F/Users/astha/Documents/Study/SampleApp --serialize-diagnostics /var/folders/59/hls9jrq155n5s4xbdv2n6cj40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SampleApp-Prefix-fldxpvfvmgbgoweimekuivnvpfso/SampleApp-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/59/hls9jrq155n5s4xbdv2n6cj40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SampleApp-Prefix-fldxpvfvmgbgoweimekuivnvpfso/SampleApp-Prefix.pch.d -c /Users/astha/Documents/Study/SampleApp/SampleApp/SampleApp-Prefix.pch -o /var/folders/59/hls9jrq155n5s4xbdv2n6cj40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SampleApp-Prefix-fldxpvfvmgbgoweimekuivnvpfso/SampleApp-Prefix.pch.pch36"F73F5B50-419B-4476-B9FA-E48682E934D8-
+b2DCF2C05-5DD6-4038-BF09-D6A26A50E497
+
+CTouch /Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator/SampleApp.app
+s415478227.954294
+e415478227.957247
+r1
+xTouch
+x/Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator/SampleApp.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Touch /Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator/SampleApp.app49"Touch build/Release-iphonesimulator/SampleApp.app1957f4d3b1c3b841^55f92ad4b1c3b841^---0#0#1#--406"Touch build/Release-iphonesimulator/SampleApp.app    cd /Users/astha/Documents/Study/SampleApp    setenv PATH "/Applications/Xcode5.0.2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5.0.2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/astha/Documents/Study/SampleApp/build/Release-iphonesimulator/SampleApp.app36"34013F9A-8C1E-4D18-993F-71AD006F56BE-
+b2DCF2C05-5DD6-4038-BF09-D6A26A50E497
+

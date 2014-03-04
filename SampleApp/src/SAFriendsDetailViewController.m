@@ -27,6 +27,12 @@
 {
     [super viewDidLoad];
     self.profilePicView.image = self.profilePic;
+    self.profilePicView.layer.cornerRadius = 10.0f;
+    self.profilePicView.layer.masksToBounds = YES;
+    self.profilePicView.layer.borderColor = [UIColor blackColor].CGColor;
+    self.profilePicView.layer.borderWidth = 4.0f;
+    self.profilePicView.layer.shadowOffset = CGSizeMake(1.0f, 1.0f);
+    
     self.title = self.name;
 }
 

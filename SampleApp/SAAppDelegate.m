@@ -8,8 +8,8 @@
 
 #import "SAAppDelegate.h"
 #import "SARootViewController.h"
-#import "SACustomButton.h"
 #import <FacebookSDK/FBAppCall.h>
+
 
 @implementation SAAppDelegate
 
@@ -105,10 +105,6 @@
 // Show the user the logged-out UI
 - (void)userLoggedOut
 {
-    // Set the button title as "Log in with Facebook"
-    SACustomButton *loginButton = nil;
-    [loginButton setTitle:@"Log in with Facebook" forState:UIControlStateNormal];
-    
     // Confirm logout message
     [self showMessage:@"You're now logged out" withTitle:@""];
 }
@@ -116,10 +112,6 @@
 // Show the user the logged-in UI
 - (void)userLoggedIn
 {
-    // Set the button title as "Log out"
-    SACustomButton *loginButton = nil;
-    [loginButton setTitle:@"Log out" forState:UIControlStateNormal];
-    
     // Welcome message
     [self showMessage:@"You're now logged in" withTitle:@"Welcome!"];
     

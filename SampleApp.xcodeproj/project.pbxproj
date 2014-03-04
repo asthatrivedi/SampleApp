@@ -24,7 +24,6 @@
 		8D15E29E18C2B0990040D5ED /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8D15E29D18C2B0990040D5ED /* MainStoryboard.storyboard */; };
 		8D15E2A118C2CB4A0040D5ED /* SAFriendsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8D15E2A018C2CB4A0040D5ED /* SAFriendsViewController.m */; };
 		8D15E2A918C2EE660040D5ED /* SAProfilePicProcessor.m in Sources */ = {isa = PBXBuildFile; fileRef = 8D15E2A818C2EE660040D5ED /* SAProfilePicProcessor.m */; };
-		8D15E2BE18C30C4F0040D5ED /* SALoadingView.m in Sources */ = {isa = PBXBuildFile; fileRef = 8D15E2BD18C30C4F0040D5ED /* SALoadingView.m */; };
 		8D15E2C118C3C9880040D5ED /* SAFriendsDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8D15E2C018C3C9880040D5ED /* SAFriendsDetailViewController.m */; };
 		8D15E2C418C3E2EC0040D5ED /* SAFriend.m in Sources */ = {isa = PBXBuildFile; fileRef = 8D15E2C318C3E2EC0040D5ED /* SAFriend.m */; };
 /* End PBXBuildFile section */
@@ -64,8 +63,6 @@
 		8D15E2A018C2CB4A0040D5ED /* SAFriendsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SAFriendsViewController.m; path = src/SAFriendsViewController.m; sourceTree = "<group>"; };
 		8D15E2A718C2EE660040D5ED /* SAProfilePicProcessor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SAProfilePicProcessor.h; path = src/SAProfilePicProcessor.h; sourceTree = "<group>"; };
 		8D15E2A818C2EE660040D5ED /* SAProfilePicProcessor.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SAProfilePicProcessor.m; path = src/SAProfilePicProcessor.m; sourceTree = "<group>"; };
-		8D15E2BC18C30C4F0040D5ED /* SALoadingView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SALoadingView.h; path = src/SALoadingView.h; sourceTree = "<group>"; };
-		8D15E2BD18C30C4F0040D5ED /* SALoadingView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SALoadingView.m; path = src/SALoadingView.m; sourceTree = "<group>"; };
 		8D15E2BF18C3C9880040D5ED /* SAFriendsDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SAFriendsDetailViewController.h; path = src/SAFriendsDetailViewController.h; sourceTree = "<group>"; };
 		8D15E2C018C3C9880040D5ED /* SAFriendsDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SAFriendsDetailViewController.m; path = src/SAFriendsDetailViewController.m; sourceTree = "<group>"; };
 		8D15E2C218C3E2EC0040D5ED /* SAFriend.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SAFriend.h; path = src/SAFriend.h; sourceTree = "<group>"; };
@@ -188,19 +185,9 @@
 			name = Classes;
 			sourceTree = "<group>";
 		};
-		8D15E27E18C2A2EC0040D5ED /* Buttons */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			name = Buttons;
-			sourceTree = "<group>";
-		};
 		8D15E27F18C2A6110040D5ED /* Custom Views */ = {
 			isa = PBXGroup;
 			children = (
-				8D15E27E18C2A2EC0040D5ED /* Buttons */,
-				8D15E2BC18C30C4F0040D5ED /* SALoadingView.h */,
-				8D15E2BD18C30C4F0040D5ED /* SALoadingView.m */,
 			);
 			name = "Custom Views";
 			sourceTree = "<group>";
@@ -302,7 +289,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8D15E2BE18C30C4F0040D5ED /* SALoadingView.m in Sources */,
 				8D15E2C418C3E2EC0040D5ED /* SAFriend.m in Sources */,
 				8D15E2A118C2CB4A0040D5ED /* SAFriendsViewController.m in Sources */,
 				8D15E29B18C2ADB40040D5ED /* SARootViewController.m in Sources */,

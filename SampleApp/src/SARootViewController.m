@@ -9,7 +9,6 @@
 #import "SAAppDelegate.h"
 #import "SARootViewController.h"
 #import "SAFriendsViewController.h"
-#import "SACustomButton.h"
 #import "SAFriend.h"
 
 
@@ -27,8 +26,19 @@
 {
     [super viewDidLoad];
     self.friendsButton.enabled = NO;
+    [self customiseButtons];
 }
 
+
+- (void)customiseButtons {
+    self.loginButton.layer.backgroundColor = [UIColor colorWithRed:72.f/255.f
+                                                             green:98.f/255.f
+                                                              blue:167.f/255.f
+                                                             alpha:1.0f].CGColor;
+    self.loginButton.layer.cornerRadius = 8.0f;
+    self.loginButton.layer.shadowColor = [UIColor grayColor].CGColor;
+    self.loginButton.layer.shadowOffset = CGSizeMake(1.0f, 1.0f);
+}
 
 
 - (IBAction)performLogin:(id)sender {
@@ -91,9 +101,12 @@
         if (error) {
             NSLog(@"ERROR: %@",error.userInfo);
         }
-        NSArray *frnds = [result objectForKey:@"data"];
-        NSLog(@"Found: %lu friends", (unsigned long)[frnds count]);
-        [weakSelf updateFriendsList:frnds];
+        else {
+            NSArray *frnds = [result objectForKey:@"data"];
+            NSLog(@"Found: %lu friends", (unsigned long)[frnds count]);
+            [weakSelf updateFriendsList:frnds];
+            [weakSelf performSegueWithIdentifier:@"push" sender:self];
+        }
     }];
 }
 
