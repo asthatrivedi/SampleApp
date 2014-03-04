@@ -20,7 +20,6 @@
 		8D15E26618C27AE20040D5ED /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 8D15E26418C27AE20040D5ED /* InfoPlist.strings */; };
 		8D15E26818C27AE20040D5ED /* SampleAppTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8D15E26718C27AE20040D5ED /* SampleAppTests.m */; };
 		8D15E27418C27CEE0040D5ED /* FacebookSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8D15E27318C27CEE0040D5ED /* FacebookSDK.framework */; };
-		8D15E27D18C29D890040D5ED /* SACustomButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 8D15E27C18C29D890040D5ED /* SACustomButton.m */; };
 		8D15E29B18C2ADB40040D5ED /* SARootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8D15E29918C2ADB40040D5ED /* SARootViewController.m */; };
 		8D15E29E18C2B0990040D5ED /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8D15E29D18C2B0990040D5ED /* MainStoryboard.storyboard */; };
 		8D15E2A118C2CB4A0040D5ED /* SAFriendsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8D15E2A018C2CB4A0040D5ED /* SAFriendsViewController.m */; };
@@ -58,8 +57,6 @@
 		8D15E26518C27AE20040D5ED /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		8D15E26718C27AE20040D5ED /* SampleAppTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SampleAppTests.m; sourceTree = "<group>"; };
 		8D15E27318C27CEE0040D5ED /* FacebookSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = FacebookSDK.framework; sourceTree = "<group>"; };
-		8D15E27B18C29D890040D5ED /* SACustomButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SACustomButton.h; path = src/SACustomButton.h; sourceTree = "<group>"; };
-		8D15E27C18C29D890040D5ED /* SACustomButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SACustomButton.m; path = src/SACustomButton.m; sourceTree = "<group>"; };
 		8D15E29818C2ADB40040D5ED /* SARootViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SARootViewController.h; path = src/SARootViewController.h; sourceTree = "<group>"; };
 		8D15E29918C2ADB40040D5ED /* SARootViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SARootViewController.m; path = src/SARootViewController.m; sourceTree = "<group>"; };
 		8D15E29D18C2B0990040D5ED /* MainStoryboard.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = MainStoryboard.storyboard; sourceTree = "<group>"; };
@@ -194,8 +191,6 @@
 		8D15E27E18C2A2EC0040D5ED /* Buttons */ = {
 			isa = PBXGroup;
 			children = (
-				8D15E27B18C29D890040D5ED /* SACustomButton.h */,
-				8D15E27C18C29D890040D5ED /* SACustomButton.m */,
 			);
 			name = Buttons;
 			sourceTree = "<group>";
@@ -313,7 +308,6 @@
 				8D15E29B18C2ADB40040D5ED /* SARootViewController.m in Sources */,
 				8D15E2C118C3C9880040D5ED /* SAFriendsDetailViewController.m in Sources */,
 				8D15E25318C27AE20040D5ED /* SAAppDelegate.m in Sources */,
-				8D15E27D18C29D890040D5ED /* SACustomButton.m in Sources */,
 				8D15E24F18C27AE20040D5ED /* main.m in Sources */,
 				8D15E2A918C2EE660040D5ED /* SAProfilePicProcessor.m in Sources */,
 			);
@@ -528,6 +522,7 @@
 				8D15E26D18C27AE20040D5ED /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8D15E26E18C27AE20040D5ED /* Build configuration list for PBXNativeTarget "SampleAppTests" */ = {
 			isa = XCConfigurationList;
@@ -536,6 +531,7 @@
 				8D15E27018C27AE20040D5ED /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
