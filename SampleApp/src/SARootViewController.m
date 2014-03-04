@@ -100,6 +100,13 @@
                                                   NSError *error) {
         if (error) {
             NSLog(@"ERROR: %@",error.userInfo);
+            UIAlertView *alert =
+                [[UIAlertView alloc] initWithTitle:@"ERROR"
+                                           message:@"Error occuring while fetching friends list!!"
+                                          delegate:self
+                                 cancelButtonTitle:@"OK"
+                                 otherButtonTitles:nil];
+            [alert show];
         }
         else {
             NSArray *frnds = [result objectForKey:@"data"];
